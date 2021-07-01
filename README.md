@@ -27,13 +27,13 @@ Many thanks for your feedback!
 
 <br>
 
-## 1. [Ressource]
+## 1. Bathing water quality ZH
 
 **Data** <br>
 
 >**https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/data/bathing_water_quality_ZH.csv?token=AI5TP5L6UTLC4F7N5PIEWSDA3VVG2** <br>
 >*Description:* .. <br>
->*Update frequency:* .. <br>
+>*Update frequency:* monthly (specific dates may vary) <br>
 >*Spatial unit:* Canton of Zurich <br>
 >*Format:* csv <br>
 
