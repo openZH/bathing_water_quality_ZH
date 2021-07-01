@@ -1,0 +1,5 @@
+date,id,location,quality,source,long,lat,img
+2021-05-20,1,Erlenbach / Strandbad Winkel,ausgezeichnet,Kantonales Labor Zürich,47.29749,8.59663,https://www.web.statistik.zh.ch/vis_observable_prototyping/ID_Mythenquai.jpg
+2021-05-20,2,Herrliberg / Badeanstalt Steinrad,ausgezeichnet,Kantonales Labor Thurgau,47.2921209,8.5994368,https://www.web.statistik.zh.ch/vis_observable_prototyping/ID_Mythenquai.jpg
+2021-06-19,1,Erlenbach / Strandbad Winkel,gut,Kantonales Labor Zürich,47.29749,8.59663,https://www.web.statistik.zh.ch/vis_observable_prototyping/ID_Mythenquai.jpg
+2021-06-26,2,Herrliberg / Badeanstalt Steinrad,ausgezeichnet,Kantonales Labor Thurgau,47.2921209,8.5994368,https://www.web.statistik.zh.ch/vis_observable_prototyping/ID_Mythenquai.jpg
