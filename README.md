@@ -31,29 +31,7 @@ Many thanks for your feedback!
 
 **Data** <br>
 
->**https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/...csv** <br>
->*Description:* .. <br>
->*Update frequency:* .. <br>
->*Spatial unit:* Canton of Zurich <br>
->*Format:* csv <br>
-
-**Metadata**
-
-| Fieldname / Spaltenname | Description (EN)             | Beschreibung (DE)             | Format     |
-|-------------------------|------------------------------|-------------------------------|------------|
-| ..                      | ..                           | ..                            | ..         |
-| ..                      | ..                           | ..                            | ..         |
-| ..                      | ..                           | ..                            | ..         |
-| ..                      | ..                           | ..                            | ..         |
-| ..                      | ..                           | ..                            | ..         |
-
-<br>
-
-## 2. [Resource] 
-
-**Data** <br>
-
->**https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/...csv** <br>
+>**https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/data/bathing_water_quality_ZH.csv** <br>
 >*Description:* .. <br>
 >*Update frequency:* .. <br>
 >*Spatial unit:* Canton of Zurich <br>
