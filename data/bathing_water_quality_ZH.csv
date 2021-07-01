@@ -1,5 +1,5 @@
-date,id,location,quality,source,long,lat,img
-2021-05-20,1,Erlenbach / Strandbad Winkel,ausgezeichnet,Kantonales Labor Zürich,47.29749,8.59663,https://github.com/openZH/bathing_water_quality_ZH/blob/master/images/Seebad_Mythenquai_2020-05-14.jpg
-2021-05-20,2,Herrliberg / Badeanstalt Steinrad,ausgezeichnet,Kantonales Labor Thurgau,47.2921209,8.5994368,https://github.com/openZH/bathing_water_quality_ZH/blob/master/images/Seebad_Mythenquai_2020-05-14.jpg
-2021-06-19,1,Erlenbach / Strandbad Winkel,gut,Kantonales Labor Zürich,47.29749,8.59663,https://github.com/openZH/bathing_water_quality_ZH/blob/master/images/Seebad_Mythenquai_2020-05-14.jpg
-2021-06-26,2,Herrliberg / Badeanstalt Steinrad,ausgezeichnet,Kantonales Labor Thurgau,47.2921209,8.5994368,https://github.com/openZH/bathing_water_quality_ZH/blob/master/images/Seebad_Mythenquai_2020-05-14.jpg
+date,id,location,quality,remark,source,long,lat,img
+2021-05-20,1,Erlenbach / Strandbad Winkel,ausgezeichnet,,Kantonales Labor Zürich,47.29749,8.59663,https://github.com/openZH/bathing_water_quality_ZH/blob/master/images/Seebad_Mythenquai_2020-05-14.jpg
+2021-05-20,2,Herrliberg / Badeanstalt Steinrad,ausgezeichnet,,Kantonales Labor Thurgau,47.2921209,8.5994368,https://github.com/openZH/bathing_water_quality_ZH/blob/master/images/Seebad_Mythenquai_2020-05-14.jpg
+2021-06-19,1,Erlenbach / Strandbad Winkel,gut,,Kantonales Labor Zürich,47.29749,8.59663,https://github.com/openZH/bathing_water_quality_ZH/blob/master/images/Seebad_Mythenquai_2020-05-14.jpg
+2021-06-26,2,Herrliberg / Badeanstalt Steinrad,ausgezeichnet,,Kantonales Labor Thurgau,47.2921209,8.5994368,https://github.com/openZH/bathing_water_quality_ZH/blob/master/images/Seebad_Mythenquai_2020-05-14.jpg
