@@ -31,7 +31,7 @@ Many thanks for your feedback!
 
 **Data** <br>
 
->**https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/data/bathing_water_quality_ZH.csv** <br>
+>**https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/data/bathing_water_quality_ZH.csv?token=AI5TP5L6UTLC4F7N5PIEWSDA3VVG2** <br>
 >*Description:* .. <br>
 >*Update frequency:* .. <br>
 >*Spatial unit:* Canton of Zurich <br>
@@ -41,8 +41,11 @@ Many thanks for your feedback!
 
 | Fieldname / Spaltenname | Description (EN)             | Beschreibung (DE)             | Format     |
 |-------------------------|------------------------------|-------------------------------|------------|
-| ..                      | ..                           | ..                            | ..         |
-| ..                      | ..                           | ..                            | ..         |
-| ..                      | ..                           | ..                            | ..         |
-| ..                      | ..                           | ..                            | ..         |
-| ..                      | ..                           | ..                            | ..         |
+| date                    | ..                           | ..                            | ..         |
+| id                      | ..                           | ..                            | ..         |
+| location                | ..                           | ..                            | ..         |
+| quality                 | ..                           | ..                            | ..         |
+| source                  | ..                           | ..                            | ..         |
+| lat                     | ..                           | ..                            | ..         |
+| long                    | ..                           | ..                            | ..         |
+| img_url                 | ..                           | ..                            | ..         |
