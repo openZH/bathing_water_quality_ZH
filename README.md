@@ -45,6 +45,7 @@ Many thanks for your feedback!
 | id                      | ..                           | ..                            | ..         |
 | location                | ..                           | ..                            | ..         |
 | quality                 | ..                           | ..                            | ..         |
+| remark                  | optional ..                  | ..                            | ..         |
 | source                  | ..                           | ..                            | ..         |
 | lat                     | ..                           | ..                            | ..         |
 | long                    | ..                           | ..                            | ..         |
