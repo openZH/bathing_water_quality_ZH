@@ -27,7 +27,7 @@ Many thanks for your feedback!
 
 <br>
 
-## 1. Bathing water quality ZH
+## 1. Bathing water quality ZH / Badewasserqualität ZH
 
 **Data** <br>
 
