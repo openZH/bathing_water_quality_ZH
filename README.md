@@ -6,18 +6,16 @@
 # Bathing water quality reported by the Canton of Zurich
 
 ### Scope
-..
+During the bathing season, the [Cantonal Laboratory](https://www.zh.ch/de/gesundheit/gebrauchsgegenstaende/bade-duschwasser.html#1248065566) checks the bathing water quality in public bathing facilities on rivers and lakes in the Canton of Zurich.
 
-__Please note:__ <br>
-- ..
+The examinations and assessments of the water samples are carried out according to the [recommendations for the examination and assessment of bathing water quality of lake and river baths of the Federal Office for the Environment (FOEN 2013)](https://www.bafu.admin.ch/bafu/de/home/themen/wasser/publikationen-studien/publikationen-wasser/beurteilung-der-badegewaesser.html).
 
 ### Update
-..
+- once a month; on different dates
 
 ### Contact
-If you have questions regarding the __content of the data__, please contact the __..__, <br>
-- by [creating a GitHub issue](https://github.com/openZH/bathing_water_quality_ZH/issues) or <br>
-- by writing an e-mail to [e-mail](mailto:..) <br>
+If you have questions regarding the __content of the data__, please contact the __Cantonal Laboratory__, <br>
+- by writing an e-mail to [info@kl.zh.ch](mailto:info@kl.zh.ch) <br>
 
 If you have questions regarding the __provision of the data__, please contact the __Specialist Unit for Open Government Data of the Canton of Zurich__, <br>
 - by [writing a Twitter direct message](https://twitter.com/OpenDataZH) or <br>
