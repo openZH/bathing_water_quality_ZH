@@ -45,6 +45,6 @@ Many thanks for your feedback!
 | quality                 | Rating levels of bathing water quality | Bewertungsstufen der Badewasserqualität | Text         |
 | remark                  | optional remarks on the sample | Optionale Anmerkungen zur Probe | Text         |
 | source                  | Organisation carrying out the sample | Organisation, welche die Probe durchführt | Text         |
-| lat                     | Latitude                     | Breitengrad                   | Decimal degrees |
-| long                    | Longitude                    | Längengrad                    | Decimal degrees |
-| image                   | Image of the location; not regularly updated | Bild des Standortes; wird nicht regelmässig aktualisiert | URL         |
+| lat                     | Latitude of the location     | Breitengrad des Orts          | Decimal degrees |
+| long                    | Longitude of the location    | Längengrad des Orts           | Decimal degrees |
+| image                   | Image of the location; not regularly updated | Bild des Orts; wird nicht regelmässig aktualisiert | URL         |
