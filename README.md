@@ -39,12 +39,12 @@ Many thanks for your feedback!
 
 | Fieldname / Spaltenname | Description (EN)             | Beschreibung (DE)             | Format     |
 |-------------------------|------------------------------|-------------------------------|------------|
-| date                    | ..                           | ..                            | ..         |
-| id                      | ..                           | ..                            | ..         |
-| location                | ..                           | ..                            | ..         |
-| quality                 | ..                           | ..                            | ..         |
-| remark                  | optional ..                  | ..                            | ..         |
-| source                  | ..                           | ..                            | ..         |
-| lat                     | ..                           | ..                            | ..         |
-| long                    | ..                           | ..                            | ..         |
-| img_url                 | ..                           | ..                            | ..         |
+| date                    | Day of sample collection     | Tag der Entnahme der Probe    | YYYY-MM-DD |
+| id                      | Identifier of the location   | Identifikator des Orts        | Number     |
+| location                | Full name of the location    | Ausgeschriebener Name des Orts | Text       |
+| quality                 | Rating levels of bathing water quality | Bewertungsstufen der Badewasserqualität | Text         |
+| remark                  | optional remarks on the sample | Optionale Anmerkungen zur Probe | Text         |
+| source                  | Organisation carrying out the sample | Organisation, welche die Probe durchführt | Text         |
+| lat                     | Latitude                     | Breitengrad                   | Decimal degrees |
+| long                    | Longitude                    | Längengrad                    | Decimal degrees |
+| image                   | Image of the location; not regularly updated | Bild des Standortes; wird nicht regelmässig aktualisiert | URL         |
