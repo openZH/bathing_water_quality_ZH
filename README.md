@@ -3,7 +3,7 @@
 
 [![GitHub commit](https://img.shields.io/github/last-commit/openZH/covid_19)](https://github.com/openZH/bathing_water_quality_ZH/commits/master)
 
-# Bathing water quality reported by the Canton of Zurich
+# Bathing water quality in public bathing facilities on rivers and lakes in the Canton of Zurich reported by the Cantonal Laboratory
 
 ### Scope
 During the bathing season, the [Cantonal Laboratory](https://www.zh.ch/de/gesundheit/gebrauchsgegenstaende/bade-duschwasser.html#1248065566) checks the bathing water quality in public bathing facilities on rivers and lakes in the Canton of Zurich.
@@ -25,7 +25,7 @@ Many thanks for your feedback!
 
 <br>
 
-## 1. Bathing water quality ZH / Badewasserqualität ZH
+## 1. Bathing water quality in public bathing facilities on rivers and lakes in the Canton of Zurich / Badewasserqualität in öffentlichen Badeanstalten an Flüssen und Seen des Kantons Zürich
 
 **Data** <br>
 
