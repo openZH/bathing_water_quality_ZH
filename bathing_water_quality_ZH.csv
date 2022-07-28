@@ -1,0 +1,643 @@
+﻿date,id,location,quality,remark,source,lat,long,image
+2019-07-24,999268,Küsnacht / Kusenbad,Ausgezeichnet,,Kantonales Labor Zürich,8.576564031,47.3227105,
+2020-05-26,999268,Küsnacht / Kusenbad,Ausgezeichnet,,Kantonales Labor Zürich,8.576564031,47.3227105,
+2020-07-20,999268,Küsnacht / Kusenbad,Ausgezeichnet,,Kantonales Labor Zürich,8.576564031,47.3227105,
+2021-05-20,999268,Küsnacht / Kusenbad,Ausgezeichnet,,Kantonales Labor Zürich,8.576564031,47.3227105,
+2021-07-15,999268,Küsnacht / Kusenbad,Ausgezeichnet,,Kantonales Labor Zürich,8.576564031,47.3227105,
+2021-05-20,999274,Küsnacht / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.582979525,47.30972971,
+2021-06-17,999274,Küsnacht / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.582979525,47.30972971,
+2019-07-24,999274,Küsnacht / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.582979525,47.30972971,
+2019-08-20,999274,Küsnacht / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.582979525,47.30972971,
+2020-05-26,999274,Küsnacht / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.582979525,47.30972971,
+2020-06-23,999274,Küsnacht / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.582979525,47.30972971,
+2020-07-20,999274,Küsnacht / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.582979525,47.30972971,
+2020-08-18,999274,Küsnacht / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.582979525,47.30972971,
+2021-07-15,999274,Küsnacht / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.582979525,47.30972971,
+2021-05-31,999288,Stäfa / Seebad Länder Uerikon,Ausgezeichnet,,Kantonales Labor Zürich,8.761072894,47.23357417,
+2019-07-24,999288,Stäfa / Seebad Länder Uerikon,Ausgezeichnet,,Kantonales Labor Zürich,8.761072894,47.23357417,
+2020-05-27,999288,Stäfa / Seebad Länder Uerikon,Ausgezeichnet,,Kantonales Labor Zürich,8.761072894,47.23357417,
+2020-07-20,999288,Stäfa / Seebad Länder Uerikon,Ausgezeichnet,,Kantonales Labor Zürich,8.761072894,47.23357417,
+2021-07-15,999288,Stäfa / Seebad Länder Uerikon,Ausgezeichnet,,Kantonales Labor Zürich,8.761072894,47.23357417,
+2021-05-20,999271,Thalwil / Strandbad Ludretikon,Ausreichend,,Kantonales Labor Zürich,8.564271932,47.30002785,
+2021-05-25,999271,Thalwil / Strandbad Ludretikon,Ausgezeichnet,,Kantonales Labor Zürich,8.564271932,47.30002785,
+2019-07-24,999271,Thalwil / Strandbad Ludretikon,Ausgezeichnet,,Kantonales Labor Zürich,8.564271932,47.30002785,
+2020-05-27,999271,Thalwil / Strandbad Ludretikon,Ausgezeichnet,,Kantonales Labor Zürich,8.564271932,47.30002785,
+2020-07-20,999271,Thalwil / Strandbad Ludretikon,Ausgezeichnet,,Kantonales Labor Zürich,8.564271932,47.30002785,
+2021-07-15,999271,Thalwil / Strandbad Ludretikon,Ausgezeichnet,,Kantonales Labor Zürich,8.564271932,47.30002785,
+2021-05-20,999275,Erlenbach / Badeanstalt Wyden,Ausgezeichnet,,Kantonales Labor Zürich,8.588368417,47.30570916,
+2019-07-24,999275,Erlenbach / Badeanstalt Wyden,Ausgezeichnet,,Kantonales Labor Zürich,8.588368417,47.30570916,
+2020-05-26,999275,Erlenbach / Badeanstalt Wyden,Ausgezeichnet,,Kantonales Labor Zürich,8.588368417,47.30570916,
+2020-07-20,999275,Erlenbach / Badeanstalt Wyden,Ausgezeichnet,,Kantonales Labor Zürich,8.588368417,47.30570916,
+2021-07-15,999275,Erlenbach / Badeanstalt Wyden,Ausgezeichnet,,Kantonales Labor Zürich,8.588368417,47.30570916,
+2019-07-24,999255,Zürich / Seebad Utoquai,Gut,,Kantonales Labor Zürich,8.545740002,47.36158192,
+2019-08-20,999255,Zürich / Seebad Utoquai,Ausgezeichnet,,Kantonales Labor Zürich,8.545740002,47.36158192,
+2020-05-26,999255,Zürich / Seebad Utoquai,Ausgezeichnet,,Kantonales Labor Zürich,8.545740002,47.36158192,
+2020-06-23,999255,Zürich / Seebad Utoquai,Ausgezeichnet,,Kantonales Labor Zürich,8.545740002,47.36158192,
+2020-07-20,999255,Zürich / Seebad Utoquai,Ausgezeichnet,,Kantonales Labor Zürich,8.545740002,47.36158192,
+2020-08-17,999255,Zürich / Seebad Utoquai,Ausgezeichnet,,Kantonales Labor Zürich,8.545740002,47.36158192,
+2021-05-20,999255,Zürich / Seebad Utoquai,Ausgezeichnet,,Kantonales Labor Zürich,8.545740002,47.36158192,
+2021-06-17,999255,Zürich / Seebad Utoquai,Ausgezeichnet,,Kantonales Labor Zürich,8.545740002,47.36158192,
+2021-07-15,999255,Zürich / Seebad Utoquai,Ausgezeichnet,,Kantonales Labor Zürich,8.545740002,47.36158192,
+2021-05-25,999308,Zürich / Flussbad Au-Höngg,Ausgezeichnet,,Kantonales Labor Zürich,8.491244021,47.3995019,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Au%20Hoengg_2021-06-30.jpg
+2021-06-30,999308,Zürich / Flussbad Au-Höngg,Ausreichend,,Kantonales Labor Zürich,8.491244021,47.3995019,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Au%20Hoengg_2021-06-30.jpg
+2021-07-06,999308,Zürich / Flussbad Au-Höngg,Ausgezeichnet,,Kantonales Labor Zürich,8.491244021,47.3995019,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Au%20Hoengg_2021-06-30.jpg
+2019-07-29,999308,Zürich / Flussbad Au-Höngg,Ausreichend,,Kantonales Labor Zürich,8.491244021,47.3995019,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Au%20Hoengg_2021-06-30.jpg
+2019-08-05,999308,Zürich / Flussbad Au-Höngg,Ausgezeichnet,,Kantonales Labor Zürich,8.491244021,47.3995019,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Au%20Hoengg_2021-06-30.jpg
+2019-08-29,999308,Zürich / Flussbad Au-Höngg,Gut,,Kantonales Labor Zürich,8.491244021,47.3995019,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Au%20Hoengg_2021-06-30.jpg
+2020-05-25,999308,Zürich / Flussbad Au-Höngg,Ausgezeichnet,,Kantonales Labor Zürich,8.491244021,47.3995019,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Au%20Hoengg_2021-06-30.jpg
+2020-06-30,999308,Zürich / Flussbad Au-Höngg,Gut,,Kantonales Labor Zürich,8.491244021,47.3995019,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Au%20Hoengg_2021-06-30.jpg
+2020-07-29,999308,Zürich / Flussbad Au-Höngg,Ausgezeichnet,,Kantonales Labor Zürich,8.491244021,47.3995019,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Au%20Hoengg_2021-06-30.jpg
+2020-08-25,999308,Zürich / Flussbad Au-Höngg,Ausgezeichnet,,Kantonales Labor Zürich,8.491244021,47.3995019,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Au%20Hoengg_2021-06-30.jpg
+2019-08-20,999267,Zollikon / Seebad,Ausgezeichnet,,Kantonales Labor Zürich,8.568319857,47.33758878,
+2020-05-26,999267,Zollikon / Seebad,Ausgezeichnet,,Kantonales Labor Zürich,8.568319857,47.33758878,
+2020-06-23,999267,Zollikon / Seebad,Ausgezeichnet,,Kantonales Labor Zürich,8.568319857,47.33758878,
+2020-08-17,999267,Zollikon / Seebad,Ausgezeichnet,,Kantonales Labor Zürich,8.568319857,47.33758878,
+2021-05-20,999267,Zollikon / Seebad,Ausgezeichnet,,Kantonales Labor Zürich,8.568319857,47.33758878,
+2021-06-17,999267,Zollikon / Seebad,Ausgezeichnet,,Kantonales Labor Zürich,8.568319857,47.33758878,
+2019-08-20,999269,Oberrieden / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.581744764,47.27678272,
+2020-05-27,999269,Oberrieden / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.581744764,47.27678272,
+2020-06-23,999269,Oberrieden / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.581744764,47.27678272,
+2020-08-17,999269,Oberrieden / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.581744764,47.27678272,
+2021-05-20,999269,Oberrieden / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.581744764,47.27678272,
+2021-06-17,999269,Oberrieden / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.581744764,47.27678272,
+2019-07-24,999270,Thalwil / Strandbad Bürger 2,Ausgezeichnet,,Kantonales Labor Zürich,8.573591387,47.28993364,
+2019-08-20,999270,Thalwil / Strandbad Bürger 2,Gut,,Kantonales Labor Zürich,8.573591387,47.28993364,
+2020-05-27,999270,Thalwil / Strandbad Bürger 2,Ausgezeichnet,,Kantonales Labor Zürich,8.573591387,47.28993364,
+2020-06-23,999270,Thalwil / Strandbad Bürger 2,Ausgezeichnet,,Kantonales Labor Zürich,8.573591387,47.28993364,
+2020-07-20,999270,Thalwil / Strandbad Bürger 2,Ausgezeichnet,,Kantonales Labor Zürich,8.573591387,47.28993364,
+2020-08-17,999270,Thalwil / Strandbad Bürger 2,Ausgezeichnet,,Kantonales Labor Zürich,8.573591387,47.28993364,
+2021-05-20,999270,Thalwil / Strandbad Bürger 2,Ausgezeichnet,,Kantonales Labor Zürich,8.573591387,47.28993364,
+2021-06-17,999270,Thalwil / Strandbad Bürger 2,Ausgezeichnet,,Kantonales Labor Zürich,8.573591387,47.28993364,
+2021-07-15,999270,Thalwil / Strandbad Bürger 2,Ausgezeichnet,,Kantonales Labor Zürich,8.573591387,47.28993364,
+2019-08-20,999272,Rüschlikon / Seebad,Gut,,Kantonales Labor Zürich,8.55643583,47.31291344,
+2020-05-27,999272,Rüschlikon / Seebad,Ausgezeichnet,,Kantonales Labor Zürich,8.55643583,47.31291344,
+2020-06-23,999272,Rüschlikon / Seebad,Ausgezeichnet,,Kantonales Labor Zürich,8.55643583,47.31291344,
+2020-08-17,999272,Rüschlikon / Seebad,Ausgezeichnet,,Kantonales Labor Zürich,8.55643583,47.31291344,
+2021-05-20,999272,Rüschlikon / Seebad,Ausgezeichnet,,Kantonales Labor Zürich,8.55643583,47.31291344,
+2021-06-17,999272,Rüschlikon / Seebad,Ausgezeichnet,,Kantonales Labor Zürich,8.55643583,47.31291344,
+2020-05-27,999273,Kilchberg / Seebad Schoren,Ausgezeichnet,,Kantonales Labor Zürich,8.554211951,47.31852105,
+2020-06-23,999273,Kilchberg / Seebad Schoren,Ausgezeichnet,,Kantonales Labor Zürich,8.554211951,47.31852105,
+2020-08-17,999273,Kilchberg / Seebad Schoren,Ausgezeichnet,,Kantonales Labor Zürich,8.554211951,47.31852105,
+2021-05-20,999273,Kilchberg / Seebad Schoren,Ausgezeichnet,,Kantonales Labor Zürich,8.554211951,47.31852105,
+2021-06-17,999273,Kilchberg / Seebad Schoren,Ausgezeichnet,,Kantonales Labor Zürich,8.554211951,47.31852105,
+2019-08-20,999276,Erlenbach / Strandbad Winkel,Ausgezeichnet,,Kantonales Labor Zürich,8.596149599,47.29740053,
+2020-05-26,999276,Erlenbach / Strandbad Winkel,Ausgezeichnet,,Kantonales Labor Zürich,8.596149599,47.29740053,
+2020-06-23,999276,Erlenbach / Strandbad Winkel,Ausgezeichnet,,Kantonales Labor Zürich,8.596149599,47.29740053,
+2020-08-17,999276,Erlenbach / Strandbad Winkel,Ausgezeichnet,,Kantonales Labor Zürich,8.596149599,47.29740053,
+2021-05-20,999276,Erlenbach / Strandbad Winkel,Ausgezeichnet,,Kantonales Labor Zürich,8.596149599,47.29740053,
+2021-06-17,999276,Erlenbach / Strandbad Winkel,Ausgezeichnet,,Kantonales Labor Zürich,8.596149599,47.29740053,
+2019-08-20,999277,Herrliberg / Steinrad,Gut,,Kantonales Labor Zürich,8.600435283,47.29139345,
+2020-05-26,999277,Herrliberg / Steinrad,Ausgezeichnet,,Kantonales Labor Zürich,8.600435283,47.29139345,
+2020-06-23,999277,Herrliberg / Steinrad,Ausgezeichnet,,Kantonales Labor Zürich,8.600435283,47.29139345,
+2020-08-17,999277,Herrliberg / Steinrad,Ausgezeichnet,,Kantonales Labor Zürich,8.600435283,47.29139345,
+2021-05-20,999277,Herrliberg / Steinrad,Ausgezeichnet,,Kantonales Labor Zürich,8.600435283,47.29139345,
+2021-06-17,999277,Herrliberg / Steinrad,Ausgezeichnet,,Kantonales Labor Zürich,8.600435283,47.29139345,
+2019-07-24,999278,Meilen / Strandbad Feldmeilen,Ausgezeichnet,,Kantonales Labor Zürich,8.62109299,47.27494658,
+2020-05-26,999278,Meilen / Strandbad Feldmeilen,Ausgezeichnet,,Kantonales Labor Zürich,8.62109299,47.27494658,
+2020-07-20,999278,Meilen / Strandbad Feldmeilen,Ausgezeichnet,,Kantonales Labor Zürich,8.62109299,47.27494658,
+2021-05-31,999278,Meilen / Strandbad Feldmeilen,Ausgezeichnet,,Kantonales Labor Zürich,8.62109299,47.27494658,
+2021-07-15,999278,Meilen / Strandbad Feldmeilen,Ausgezeichnet,,Kantonales Labor Zürich,8.62109299,47.27494658,
+2020-05-26,999279,Meilen / Strandbad Ländeli,Ausgezeichnet,,Kantonales Labor Zürich,8.661150607,47.26321226,
+2020-06-23,999279,Meilen / Strandbad Ländeli,Ausgezeichnet,,Kantonales Labor Zürich,8.661150607,47.26321226,
+2020-08-17,999279,Meilen / Strandbad Ländeli,Ausgezeichnet,,Kantonales Labor Zürich,8.661150607,47.26321226,
+2021-05-31,999279,Meilen / Strandbad Ländeli,Ausgezeichnet,,Kantonales Labor Zürich,8.661150607,47.26321226,
+2021-06-17,999279,Meilen / Strandbad Ländeli,Ausgezeichnet,,Kantonales Labor Zürich,8.661150607,47.26321226,
+2019-07-24,999280,Meilen / Strandbad Dorfmeilen,Ausgezeichnet,,Kantonales Labor Zürich,8.648648271,47.26766685,
+2020-05-26,999280,Meilen / Strandbad Dorfmeilen,Ausgezeichnet,,Kantonales Labor Zürich,8.648648271,47.26766685,
+2020-07-20,999280,Meilen / Strandbad Dorfmeilen,Ausgezeichnet,,Kantonales Labor Zürich,8.648648271,47.26766685,
+2021-05-31,999280,Meilen / Strandbad Dorfmeilen,Ausgezeichnet,,Kantonales Labor Zürich,8.648648271,47.26766685,
+2021-07-15,999280,Meilen / Strandbad Dorfmeilen,Gut,,Kantonales Labor Zürich,8.648648271,47.26766685,
+2019-07-24,999281,Horgen / Parkbad Seerose,Ausgezeichnet,,Kantonales Labor Zürich,8.594306389,47.26295734,
+2020-05-27,999281,Horgen / Parkbad Seerose,Ausgezeichnet,,Kantonales Labor Zürich,8.594306389,47.26295734,
+2020-07-20,999281,Horgen / Parkbad Seerose,Ausgezeichnet,,Kantonales Labor Zürich,8.594306389,47.26295734,
+2021-05-31,999281,Horgen / Parkbad Seerose,Ausgezeichnet,,Kantonales Labor Zürich,8.594306389,47.26295734,
+2021-07-15,999281,Horgen / Parkbad Seerose,Gut,,Kantonales Labor Zürich,8.594306389,47.26295734,
+2019-08-20,999282,Horgen / Sportbad Käpfnach,Ausgezeichnet,,Kantonales Labor Zürich,8.617624794,47.25555171,
+2020-05-27,999282,Horgen / Sportbad Käpfnach,Ausgezeichnet,,Kantonales Labor Zürich,8.617624794,47.25555171,
+2020-06-23,999282,Horgen / Sportbad Käpfnach,Ausgezeichnet,,Kantonales Labor Zürich,8.617624794,47.25555171,
+2020-08-17,999282,Horgen / Sportbad Käpfnach,Ausgezeichnet,,Kantonales Labor Zürich,8.617624794,47.25555171,
+2021-05-31,999282,Horgen / Sportbad Käpfnach,Ausgezeichnet,,Kantonales Labor Zürich,8.617624794,47.25555171,
+2021-06-17,999282,Horgen / Sportbad Käpfnach,Ausgezeichnet,,Kantonales Labor Zürich,8.617624794,47.25555171,
+2019-07-24,999283,Wädenswil / Badewiese Naglikon,Ausgezeichnet,,Kantonales Labor Zürich,8.634445028,47.25026889,
+2020-05-27,999283,Wädenswil / Badewiese Naglikon,Ausgezeichnet,,Kantonales Labor Zürich,8.634445028,47.25026889,
+2020-07-20,999283,Wädenswil / Badewiese Naglikon,Ausgezeichnet,,Kantonales Labor Zürich,8.634445028,47.25026889,
+2021-05-31,999283,Wädenswil / Badewiese Naglikon,Ausgezeichnet,,Kantonales Labor Zürich,8.634445028,47.25026889,
+2021-07-15,999283,Wädenswil / Badewiese Naglikon,Ausgezeichnet,,Kantonales Labor Zürich,8.634445028,47.25026889,
+2019-07-24,999284,Wädenswil / Strandbad Rietliau,Ausgezeichnet,,Kantonales Labor Zürich,8.661626277,47.23954862,
+2019-08-20,999284,Wädenswil / Strandbad Rietliau,Gut,,Kantonales Labor Zürich,8.661626277,47.23954862,
+2020-05-27,999284,Wädenswil / Strandbad Rietliau,Ausgezeichnet,,Kantonales Labor Zürich,8.661626277,47.23954862,
+2020-06-23,999284,Wädenswil / Strandbad Rietliau,Ausgezeichnet,,Kantonales Labor Zürich,8.661626277,47.23954862,
+2020-07-20,999284,Wädenswil / Strandbad Rietliau,Ausgezeichnet,,Kantonales Labor Zürich,8.661626277,47.23954862,
+2020-08-17,999284,Wädenswil / Strandbad Rietliau,Ausgezeichnet,,Kantonales Labor Zürich,8.661626277,47.23954862,
+2021-05-31,999284,Wädenswil / Strandbad Rietliau,Ausgezeichnet,,Kantonales Labor Zürich,8.661626277,47.23954862,
+2021-06-17,999284,Wädenswil / Strandbad Rietliau,Ausgezeichnet,,Kantonales Labor Zürich,8.661626277,47.23954862,
+2021-07-15,999284,Wädenswil / Strandbad Rietliau,Gut,,Kantonales Labor Zürich,8.661626277,47.23954862,
+2019-07-24,999285,Wädenswil / Seebad Dorf,Ausgezeichnet,,Kantonales Labor Zürich,8.673861638,47.23172673,
+2020-05-27,999285,Wädenswil / Seebad Dorf,Ausgezeichnet,,Kantonales Labor Zürich,8.673861638,47.23172673,
+2020-07-20,999285,Wädenswil / Seebad Dorf,Ausgezeichnet,,Kantonales Labor Zürich,8.673861638,47.23172673,
+2021-05-31,999285,Wädenswil / Seebad Dorf,Ausgezeichnet,,Kantonales Labor Zürich,8.673861638,47.23172673,
+2021-07-15,999285,Wädenswil / Seebad Dorf,Ausgezeichnet,,Kantonales Labor Zürich,8.673861638,47.23172673,
+2019-07-24,999286,Richterswil / Seebad,Ausgezeichnet,,Kantonales Labor Zürich,8.712589656,47.20647641,
+2019-08-20,999286,Richterswil / Seebad,Ausgezeichnet,,Kantonales Labor Zürich,8.712589656,47.20647641,
+2020-05-27,999286,Richterswil / Seebad,Ausgezeichnet,,Kantonales Labor Zürich,8.712589656,47.20647641,
+2020-06-23,999286,Richterswil / Seebad,Ausgezeichnet,,Kantonales Labor Zürich,8.712589656,47.20647641,
+2020-07-20,999286,Richterswil / Seebad,Ausgezeichnet,,Kantonales Labor Zürich,8.712589656,47.20647641,
+2020-08-17,999286,Richterswil / Seebad,Ausgezeichnet,,Kantonales Labor Zürich,8.712589656,47.20647641,
+2021-05-31,999286,Richterswil / Seebad,Ausgezeichnet,,Kantonales Labor Zürich,8.712589656,47.20647641,
+2021-06-17,999286,Richterswil / Seebad,Ausgezeichnet,,Kantonales Labor Zürich,8.712589656,47.20647641,
+2021-07-15,999286,Richterswil / Seebad,Ausgezeichnet,,Kantonales Labor Zürich,8.712589656,47.20647641,
+2019-08-20,999287,Hombrechtikon / Strandbad Feldbach,Gut,,Kantonales Labor Zürich,8.789153555,47.23520047,
+2020-05-27,999287,Hombrechtikon / Strandbad Feldbach,Ausgezeichnet,,Kantonales Labor Zürich,8.789153555,47.23520047,
+2020-06-23,999287,Hombrechtikon / Strandbad Feldbach,Ausgezeichnet,,Kantonales Labor Zürich,8.789153555,47.23520047,
+2020-08-17,999287,Hombrechtikon / Strandbad Feldbach,Ausgezeichnet,,Kantonales Labor Zürich,8.789153555,47.23520047,
+2021-05-31,999287,Hombrechtikon / Strandbad Feldbach,Ausgezeichnet,,Kantonales Labor Zürich,8.789153555,47.23520047,
+2021-06-17,999287,Hombrechtikon / Strandbad Feldbach,Ausgezeichnet,,Kantonales Labor Zürich,8.789153555,47.23520047,
+2019-07-24,999289,Stäfa / Badeplatz Kehlhof,Ausgezeichnet,,Kantonales Labor Zürich,8.734580299,47.23309264,
+2020-05-27,999289,Stäfa / Badeplatz Kehlhof,Ausgezeichnet,,Kantonales Labor Zürich,8.734580299,47.23309264,
+2020-07-20,999289,Stäfa / Badeplatz Kehlhof,Ausgezeichnet,,Kantonales Labor Zürich,8.734580299,47.23309264,
+2021-05-31,999289,Stäfa / Badeplatz Kehlhof,Ausgezeichnet,,Kantonales Labor Zürich,8.734580299,47.23309264,
+2021-07-15,999289,Stäfa / Badeplatz Kehlhof,Ausgezeichnet,,Kantonales Labor Zürich,8.734580299,47.23309264,
+2019-07-24,999290,Stäfa / Seebad Lattenberg,Ausgezeichnet,,Kantonales Labor Zürich,8.710700612,47.24137408,
+2019-08-20,999290,Stäfa / Seebad Lattenberg,Ausgezeichnet,,Kantonales Labor Zürich,8.710700612,47.24137408,
+2020-05-27,999290,Stäfa / Seebad Lattenberg,Ausgezeichnet,,Kantonales Labor Zürich,8.710700612,47.24137408,
+2020-06-23,999290,Stäfa / Seebad Lattenberg,Ausgezeichnet,,Kantonales Labor Zürich,8.710700612,47.24137408,
+2020-07-20,999290,Stäfa / Seebad Lattenberg,Ausgezeichnet,,Kantonales Labor Zürich,8.710700612,47.24137408,
+2020-08-17,999290,Stäfa / Seebad Lattenberg,Ausgezeichnet,,Kantonales Labor Zürich,8.710700612,47.24137408,
+2021-05-31,999290,Stäfa / Seebad Lattenberg,Ausgezeichnet,,Kantonales Labor Zürich,8.710700612,47.24137408,
+2021-06-17,999290,Stäfa / Seebad Lattenberg,Ausgezeichnet,,Kantonales Labor Zürich,8.710700612,47.24137408,
+2021-07-15,999290,Stäfa / Seebad Lattenberg,Ausgezeichnet,,Kantonales Labor Zürich,8.710700612,47.24137408,
+2019-08-20,999291,Männedorf / Strandbad Sonnenfeld,Gut,,Kantonales Labor Zürich,8.705561742,47.24525391,
+2020-05-27,999291,Männedorf / Strandbad Sonnenfeld,Ausgezeichnet,,Kantonales Labor Zürich,8.705561742,47.24525391,
+2020-06-23,999291,Männedorf / Strandbad Sonnenfeld,Ausgezeichnet,,Kantonales Labor Zürich,8.705561742,47.24525391,
+2020-08-17,999291,Männedorf / Strandbad Sonnenfeld,Ausgezeichnet,,Kantonales Labor Zürich,8.705561742,47.24525391,
+2021-05-31,999291,Männedorf / Strandbad Sonnenfeld,Ausgezeichnet,,Kantonales Labor Zürich,8.705561742,47.24525391,
+2021-06-17,999291,Männedorf / Strandbad Sonnenfeld,Ausgezeichnet,,Kantonales Labor Zürich,8.705561742,47.24525391,
+2019-08-20,999292,Uetikon am See / Strandbad Uetikon,Gut,,Kantonales Labor Zürich,8.676977569,47.25790677,
+2020-05-26,999292,Uetikon am See / Strandbad Uetikon,Ausgezeichnet,,Kantonales Labor Zürich,8.676977569,47.25790677,
+2020-06-23,999292,Uetikon am See / Strandbad Uetikon,Ausgezeichnet,,Kantonales Labor Zürich,8.676977569,47.25790677,
+2020-08-17,999292,Uetikon am See / Strandbad Uetikon,Ausgezeichnet,,Kantonales Labor Zürich,8.676977569,47.25790677,
+2021-05-31,999292,Uetikon am See / Strandbad Uetikon,Ausgezeichnet,,Kantonales Labor Zürich,8.676977569,47.25790677,
+2021-06-17,999292,Uetikon am See / Strandbad Uetikon,Ausgezeichnet,,Kantonales Labor Zürich,8.676977569,47.25790677,
+2019-07-18,999293,Uster / Strandbad Uster,Ausgezeichnet,,Kantonales Labor Zürich,8.690639706,47.34131925,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Uster_Strandbad%20Uster_Greifensee_2021-07-22.jpg
+2019-08-15,999293,Uster / Strandbad Uster,Ausgezeichnet,,Kantonales Labor Zürich,8.690639706,47.34131925,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Uster_Strandbad%20Uster_Greifensee_2021-07-22.jpg
+2020-05-28,999293,Uster / Strandbad Uster,Ausgezeichnet,,Kantonales Labor Zürich,8.690639706,47.34131925,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Uster_Strandbad%20Uster_Greifensee_2021-07-22.jpg
+2020-06-25,999293,Uster / Strandbad Uster,Ausgezeichnet,,Kantonales Labor Zürich,8.690639706,47.34131925,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Uster_Strandbad%20Uster_Greifensee_2021-07-22.jpg
+2020-07-23,999293,Uster / Strandbad Uster,Ausgezeichnet,,Kantonales Labor Zürich,8.690639706,47.34131925,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Uster_Strandbad%20Uster_Greifensee_2021-07-22.jpg
+2020-08-20,999293,Uster / Strandbad Uster,Ausgezeichnet,,Kantonales Labor Zürich,8.690639706,47.34131925,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Uster_Strandbad%20Uster_Greifensee_2021-07-22.jpg
+2021-05-27,999293,Uster / Strandbad Uster,Ausgezeichnet,,Kantonales Labor Zürich,8.690639706,47.34131925,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Uster_Strandbad%20Uster_Greifensee_2021-07-22.jpg
+2021-06-24,999293,Uster / Strandbad Uster,Ausgezeichnet,,Kantonales Labor Zürich,8.690639706,47.34131925,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Uster_Strandbad%20Uster_Greifensee_2021-07-22.jpg
+2019-07-18,999294,Uster / Einmündung Aabach,Ausgezeichnet,,Kantonales Labor Zürich,8.689203251,47.35004244,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Uster_Einm%C3%BCndung%20Aabach_Greifensee_2021-07-22.jpg
+2019-08-15,999294,Uster / Einmündung Aabach,Ausgezeichnet,,Kantonales Labor Zürich,8.689203251,47.35004244,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Uster_Einm%C3%BCndung%20Aabach_Greifensee_2021-07-22.jpg
+2020-05-28,999294,Uster / Einmündung Aabach,Ausgezeichnet,,Kantonales Labor Zürich,8.689203251,47.35004244,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Uster_Einm%C3%BCndung%20Aabach_Greifensee_2021-07-22.jpg
+2020-06-25,999294,Uster / Einmündung Aabach,Ausgezeichnet,,Kantonales Labor Zürich,8.689203251,47.35004244,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Uster_Einm%C3%BCndung%20Aabach_Greifensee_2021-07-22.jpg
+2020-07-23,999294,Uster / Einmündung Aabach,Ausgezeichnet,,Kantonales Labor Zürich,8.689203251,47.35004244,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Uster_Einm%C3%BCndung%20Aabach_Greifensee_2021-07-22.jpg
+2020-08-20,999294,Uster / Einmündung Aabach,Ausgezeichnet,,Kantonales Labor Zürich,8.689203251,47.35004244,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Uster_Einm%C3%BCndung%20Aabach_Greifensee_2021-07-22.jpg
+2021-05-27,999294,Uster / Einmündung Aabach,Ausgezeichnet,,Kantonales Labor Zürich,8.689203251,47.35004244,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Uster_Einm%C3%BCndung%20Aabach_Greifensee_2021-07-22.jpg
+2021-06-24,999294,Uster / Einmündung Aabach,Ausgezeichnet,,Kantonales Labor Zürich,8.689203251,47.35004244,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Uster_Einm%C3%BCndung%20Aabach_Greifensee_2021-07-22.jpg
+2019-07-18,999295,Egg / Seebadi Egg,Ausgezeichnet,,Kantonales Labor Zürich,8.696417198,47.32199702,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Egg_Seebadi%20Egg_Greifensee_2021-07-22.jpg
+2019-08-15,999295,Egg / Seebadi Egg,Ausgezeichnet,,Kantonales Labor Zürich,8.696417198,47.32199702,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Egg_Seebadi%20Egg_Greifensee_2021-07-22.jpg
+2020-05-28,999295,Egg / Seebadi Egg,Ausgezeichnet,,Kantonales Labor Zürich,8.696417198,47.32199702,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Egg_Seebadi%20Egg_Greifensee_2021-07-22.jpg
+2020-06-25,999295,Egg / Seebadi Egg,Ausgezeichnet,,Kantonales Labor Zürich,8.696417198,47.32199702,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Egg_Seebadi%20Egg_Greifensee_2021-07-22.jpg
+2020-07-23,999295,Egg / Seebadi Egg,Ausgezeichnet,,Kantonales Labor Zürich,8.696417198,47.32199702,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Egg_Seebadi%20Egg_Greifensee_2021-07-22.jpg
+2020-08-20,999295,Egg / Seebadi Egg,Ausgezeichnet,,Kantonales Labor Zürich,8.696417198,47.32199702,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Egg_Seebadi%20Egg_Greifensee_2021-07-22.jpg
+2021-05-27,999295,Egg / Seebadi Egg,Ausgezeichnet,,Kantonales Labor Zürich,8.696417198,47.32199702,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Egg_Seebadi%20Egg_Greifensee_2021-07-22.jpg
+2021-06-24,999295,Egg / Seebadi Egg,Ausgezeichnet,,Kantonales Labor Zürich,8.696417198,47.32199702,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Egg_Seebadi%20Egg_Greifensee_2021-07-22.jpg
+2019-07-18,999298,Maur / Strandbad Maur,Ausgezeichnet,,Kantonales Labor Zürich,8.675291407,47.34601842,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Strandbad%20Maur_Greifensee_2021-07-22.jpg
+2019-08-15,999298,Maur / Strandbad Maur,Gut,,Kantonales Labor Zürich,8.675291407,47.34601842,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Strandbad%20Maur_Greifensee_2021-07-22.jpg
+2020-05-28,999298,Maur / Strandbad Maur,Ausgezeichnet,,Kantonales Labor Zürich,8.675291407,47.34601842,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Strandbad%20Maur_Greifensee_2021-07-22.jpg
+2020-06-25,999298,Maur / Strandbad Maur,Ausgezeichnet,,Kantonales Labor Zürich,8.675291407,47.34601842,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Strandbad%20Maur_Greifensee_2021-07-22.jpg
+2020-07-23,999298,Maur / Strandbad Maur,Ausgezeichnet,,Kantonales Labor Zürich,8.675291407,47.34601842,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Strandbad%20Maur_Greifensee_2021-07-22.jpg
+2020-08-20,999298,Maur / Strandbad Maur,Ausgezeichnet,,Kantonales Labor Zürich,8.675291407,47.34601842,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Strandbad%20Maur_Greifensee_2021-07-22.jpg
+2021-05-27,999298,Maur / Strandbad Maur,Ausgezeichnet,,Kantonales Labor Zürich,8.675291407,47.34601842,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Strandbad%20Maur_Greifensee_2021-07-22.jpg
+2021-06-24,999298,Maur / Strandbad Maur,Ausgezeichnet,,Kantonales Labor Zürich,8.675291407,47.34601842,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Strandbad%20Maur_Greifensee_2021-07-22.jpg
+2019-07-18,999299,Maur / Zeltklub Zürich,Ausgezeichnet,,Kantonales Labor Zürich,8.669820959,47.34697644,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Zeltklub%20Z%C3%BCrich_Greifensee_2021-07-22.jpg
+2019-08-15,999299,Maur / Zeltklub Zürich,Ausgezeichnet,,Kantonales Labor Zürich,8.669820959,47.34697644,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Zeltklub%20Z%C3%BCrich_Greifensee_2021-07-22.jpg
+2020-05-28,999299,Maur / Zeltklub Zürich,Ausgezeichnet,,Kantonales Labor Zürich,8.669820959,47.34697644,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Zeltklub%20Z%C3%BCrich_Greifensee_2021-07-22.jpg
+2020-06-25,999299,Maur / Zeltklub Zürich,Ausgezeichnet,,Kantonales Labor Zürich,8.669820959,47.34697644,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Zeltklub%20Z%C3%BCrich_Greifensee_2021-07-22.jpg
+2020-07-23,999299,Maur / Zeltklub Zürich,Ausgezeichnet,,Kantonales Labor Zürich,8.669820959,47.34697644,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Zeltklub%20Z%C3%BCrich_Greifensee_2021-07-22.jpg
+2020-08-20,999299,Maur / Zeltklub Zürich,Ausgezeichnet,,Kantonales Labor Zürich,8.669820959,47.34697644,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Zeltklub%20Z%C3%BCrich_Greifensee_2021-07-22.jpg
+2021-05-27,999299,Maur / Zeltklub Zürich,Ausgezeichnet,,Kantonales Labor Zürich,8.669820959,47.34697644,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Zeltklub%20Z%C3%BCrich_Greifensee_2021-07-22.jpg
+2021-06-24,999299,Maur / Zeltklub Zürich,Ausgezeichnet,,Kantonales Labor Zürich,8.669820959,47.34697644,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Zeltklub%20Z%C3%BCrich_Greifensee_2021-07-22.jpg
+2019-07-18,999301,Maur / Campingplatz Naturfreunde,Gut,,Kantonales Labor Zürich,8.664003321,47.35356901,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Campingplatz%20Naturfreunde_Greifenseee_2021-07-22.jpg
+2019-08-15,999301,Maur / Campingplatz Naturfreunde,Ausgezeichnet,,Kantonales Labor Zürich,8.664003321,47.35356901,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Campingplatz%20Naturfreunde_Greifenseee_2021-07-22.jpg
+2020-05-28,999301,Maur / Campingplatz Naturfreunde,Ausgezeichnet,,Kantonales Labor Zürich,8.664003321,47.35356901,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Campingplatz%20Naturfreunde_Greifenseee_2021-07-22.jpg
+2020-06-25,999301,Maur / Campingplatz Naturfreunde,Ausgezeichnet,,Kantonales Labor Zürich,8.664003321,47.35356901,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Campingplatz%20Naturfreunde_Greifenseee_2021-07-22.jpg
+2020-07-23,999301,Maur / Campingplatz Naturfreunde,Ausgezeichnet,,Kantonales Labor Zürich,8.664003321,47.35356901,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Campingplatz%20Naturfreunde_Greifenseee_2021-07-22.jpg
+2020-08-20,999301,Maur / Campingplatz Naturfreunde,Ausgezeichnet,,Kantonales Labor Zürich,8.664003321,47.35356901,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Campingplatz%20Naturfreunde_Greifenseee_2021-07-22.jpg
+2021-05-27,999301,Maur / Campingplatz Naturfreunde,Ausgezeichnet,,Kantonales Labor Zürich,8.664003321,47.35356901,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Campingplatz%20Naturfreunde_Greifenseee_2021-07-22.jpg
+2021-06-24,999301,Maur / Campingplatz Naturfreunde,Ausgezeichnet,,Kantonales Labor Zürich,8.664003321,47.35356901,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Campingplatz%20Naturfreunde_Greifenseee_2021-07-22.jpg
+2019-07-18,999302,Maur / Campingplatz TCS,Ausgezeichnet,,Kantonales Labor Zürich,8.659426491,47.35601927,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Campingplatz%20TCS_Greifensee_2021-07-22.jpg
+2019-08-15,999302,Maur / Campingplatz TCS,Ausgezeichnet,,Kantonales Labor Zürich,8.659426491,47.35601927,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Campingplatz%20TCS_Greifensee_2021-07-22.jpg
+2020-05-28,999302,Maur / Campingplatz TCS,Ausgezeichnet,,Kantonales Labor Zürich,8.659426491,47.35601927,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Campingplatz%20TCS_Greifensee_2021-07-22.jpg
+2020-06-25,999302,Maur / Campingplatz TCS,Ausgezeichnet,,Kantonales Labor Zürich,8.659426491,47.35601927,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Campingplatz%20TCS_Greifensee_2021-07-22.jpg
+2020-07-23,999302,Maur / Campingplatz TCS,Ausgezeichnet,,Kantonales Labor Zürich,8.659426491,47.35601927,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Campingplatz%20TCS_Greifensee_2021-07-22.jpg
+2020-08-20,999302,Maur / Campingplatz TCS,Ausgezeichnet,,Kantonales Labor Zürich,8.659426491,47.35601927,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Campingplatz%20TCS_Greifensee_2021-07-22.jpg
+2021-05-27,999302,Maur / Campingplatz TCS,Ausgezeichnet,,Kantonales Labor Zürich,8.659426491,47.35601927,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Campingplatz%20TCS_Greifensee_2021-07-22.jpg
+2021-06-24,999302,Maur / Campingplatz TCS,Ausgezeichnet,,Kantonales Labor Zürich,8.659426491,47.35601927,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Campingplatz%20TCS_Greifensee_2021-07-22.jpg
+2019-07-18,999303,Fällanden / Jugendherberge,Ausgezeichnet,,Kantonales Labor Zürich,8.654222538,47.36117455,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/F%C3%A4llanden_Jugendherberge_Greifensee_2021-07-22.jpg
+2019-08-15,999303,Fällanden / Jugendherberge,Ausgezeichnet,,Kantonales Labor Zürich,8.654222538,47.36117455,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/F%C3%A4llanden_Jugendherberge_Greifensee_2021-07-22.jpg
+2020-05-28,999303,Fällanden / Jugendherberge,Ausgezeichnet,,Kantonales Labor Zürich,8.654222538,47.36117455,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/F%C3%A4llanden_Jugendherberge_Greifensee_2021-07-22.jpg
+2020-06-25,999303,Fällanden / Jugendherberge,Ausgezeichnet,,Kantonales Labor Zürich,8.654222538,47.36117455,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/F%C3%A4llanden_Jugendherberge_Greifensee_2021-07-22.jpg
+2020-07-23,999303,Fällanden / Jugendherberge,Ausgezeichnet,,Kantonales Labor Zürich,8.654222538,47.36117455,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/F%C3%A4llanden_Jugendherberge_Greifensee_2021-07-22.jpg
+2020-08-20,999303,Fällanden / Jugendherberge,Ausgezeichnet,,Kantonales Labor Zürich,8.654222538,47.36117455,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/F%C3%A4llanden_Jugendherberge_Greifensee_2021-07-22.jpg
+2021-05-27,999303,Fällanden / Jugendherberge,Ausgezeichnet,,Kantonales Labor Zürich,8.654222538,47.36117455,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/F%C3%A4llanden_Jugendherberge_Greifensee_2021-07-22.jpg
+2021-06-24,999303,Fällanden / Jugendherberge,Ausgezeichnet,,Kantonales Labor Zürich,8.654222538,47.36117455,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/F%C3%A4llanden_Jugendherberge_Greifensee_2021-07-22.jpg
+2019-07-18,999304,Greifensee / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.671345143,47.36653419,
+2019-08-15,999304,Greifensee / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.671345143,47.36653419,
+2020-05-28,999304,Greifensee / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.671345143,47.36653419,
+2020-06-25,999304,Greifensee / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.671345143,47.36653419,
+2020-07-23,999304,Greifensee / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.671345143,47.36653419,
+2020-08-20,999304,Greifensee / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.671345143,47.36653419,
+2021-05-27,999304,Greifensee / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.671345143,47.36653419,
+2021-06-24,999304,Greifensee / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.671345143,47.36653419,
+2019-07-16,999324,Ossingen / Badeplatz Husemersee,Ausgezeichnet,,Kantonales Labor Zürich,8.703690368,47.62087988,
+2020-08-12,999324,Ossingen / Badeplatz Husemersee,Ausgezeichnet,,Kantonales Labor Zürich,8.703690368,47.62087988,
+2019-07-18,999325,Seegräben / Strandbad Seegräben,Gut,,Kantonales Labor Zürich,8.774707083,47.34572014,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Seegr%C3%A4ben_Strandbad%20Seegr%C3%A4ben_Pf%C3%A4ffikersee_2021-07-22.jpg
+2019-08-15,999325,Seegräben / Strandbad Seegräben,Ausgezeichnet,,Kantonales Labor Zürich,8.774707083,47.34572014,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Seegr%C3%A4ben_Strandbad%20Seegr%C3%A4ben_Pf%C3%A4ffikersee_2021-07-22.jpg
+2020-05-28,999325,Seegräben / Strandbad Seegräben,Ausgezeichnet,,Kantonales Labor Zürich,8.774707083,47.34572014,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Seegr%C3%A4ben_Strandbad%20Seegr%C3%A4ben_Pf%C3%A4ffikersee_2021-07-22.jpg
+2020-06-25,999325,Seegräben / Strandbad Seegräben,Ausgezeichnet,,Kantonales Labor Zürich,8.774707083,47.34572014,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Seegr%C3%A4ben_Strandbad%20Seegr%C3%A4ben_Pf%C3%A4ffikersee_2021-07-22.jpg
+2020-07-23,999325,Seegräben / Strandbad Seegräben,Ausgezeichnet,,Kantonales Labor Zürich,8.774707083,47.34572014,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Seegr%C3%A4ben_Strandbad%20Seegr%C3%A4ben_Pf%C3%A4ffikersee_2021-07-22.jpg
+2020-08-20,999325,Seegräben / Strandbad Seegräben,Ausgezeichnet,,Kantonales Labor Zürich,8.774707083,47.34572014,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Seegr%C3%A4ben_Strandbad%20Seegr%C3%A4ben_Pf%C3%A4ffikersee_2021-07-22.jpg
+2021-05-27,999325,Seegräben / Strandbad Seegräben,Ausgezeichnet,,Kantonales Labor Zürich,8.774707083,47.34572014,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Seegr%C3%A4ben_Strandbad%20Seegr%C3%A4ben_Pf%C3%A4ffikersee_2021-07-22.jpg
+2021-06-24,999325,Seegräben / Strandbad Seegräben,Ausgezeichnet,,Kantonales Labor Zürich,8.774707083,47.34572014,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Seegr%C3%A4ben_Strandbad%20Seegr%C3%A4ben_Pf%C3%A4ffikersee_2021-07-22.jpg
+2019-07-18,999326,Pfäffikon / Strandbad Auslikon,Ausgezeichnet,,Kantonales Labor Zürich,8.789858274,47.34298,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Pf%C3%A4ffikon_Strandbad%20Auslikon_Pf%C3%A4ffikersee_2021-07-22.jpg
+2019-08-15,999326,Pfäffikon / Strandbad Auslikon,Ausgezeichnet,,Kantonales Labor Zürich,8.789858274,47.34298,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Pf%C3%A4ffikon_Strandbad%20Auslikon_Pf%C3%A4ffikersee_2021-07-22.jpg
+2020-05-28,999326,Pfäffikon / Strandbad Auslikon,Ausgezeichnet,,Kantonales Labor Zürich,8.789858274,47.34298,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Pf%C3%A4ffikon_Strandbad%20Auslikon_Pf%C3%A4ffikersee_2021-07-22.jpg
+2020-06-25,999326,Pfäffikon / Strandbad Auslikon,Ausgezeichnet,,Kantonales Labor Zürich,8.789858274,47.34298,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Pf%C3%A4ffikon_Strandbad%20Auslikon_Pf%C3%A4ffikersee_2021-07-22.jpg
+2020-07-23,999326,Pfäffikon / Strandbad Auslikon,Ausgezeichnet,,Kantonales Labor Zürich,8.789858274,47.34298,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Pf%C3%A4ffikon_Strandbad%20Auslikon_Pf%C3%A4ffikersee_2021-07-22.jpg
+2020-08-20,999326,Pfäffikon / Strandbad Auslikon,Ausgezeichnet,,Kantonales Labor Zürich,8.789858274,47.34298,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Pf%C3%A4ffikon_Strandbad%20Auslikon_Pf%C3%A4ffikersee_2021-07-22.jpg
+2021-05-27,999326,Pfäffikon / Strandbad Auslikon,Ausgezeichnet,,Kantonales Labor Zürich,8.789858274,47.34298,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Pf%C3%A4ffikon_Strandbad%20Auslikon_Pf%C3%A4ffikersee_2021-07-22.jpg
+2021-06-24,999326,Pfäffikon / Strandbad Auslikon,Ausgezeichnet,,Kantonales Labor Zürich,8.789858274,47.34298,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Pf%C3%A4ffikon_Strandbad%20Auslikon_Pf%C3%A4ffikersee_2021-07-22.jpg
+2019-07-18,999327,Pfäffikon / Strandbad Baumen,Ausgezeichnet,,Kantonales Labor Zürich,8.785589037,47.35839446,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Pf%C3%A4ffikon_Strandbad%20Baumen_Pf%C3%A4ffikersee_2021-07-22.jpg
+2019-08-15,999327,Pfäffikon / Strandbad Baumen,Ausgezeichnet,,Kantonales Labor Zürich,8.785589037,47.35839446,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Pf%C3%A4ffikon_Strandbad%20Baumen_Pf%C3%A4ffikersee_2021-07-22.jpg
+2020-05-28,999327,Pfäffikon / Strandbad Baumen,Ausgezeichnet,,Kantonales Labor Zürich,8.785589037,47.35839446,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Pf%C3%A4ffikon_Strandbad%20Baumen_Pf%C3%A4ffikersee_2021-07-22.jpg
+2020-06-25,999327,Pfäffikon / Strandbad Baumen,Ausgezeichnet,,Kantonales Labor Zürich,8.785589037,47.35839446,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Pf%C3%A4ffikon_Strandbad%20Baumen_Pf%C3%A4ffikersee_2021-07-22.jpg
+2020-07-23,999327,Pfäffikon / Strandbad Baumen,Ausgezeichnet,,Kantonales Labor Zürich,8.785589037,47.35839446,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Pf%C3%A4ffikon_Strandbad%20Baumen_Pf%C3%A4ffikersee_2021-07-22.jpg
+2020-08-20,999327,Pfäffikon / Strandbad Baumen,Ausgezeichnet,,Kantonales Labor Zürich,8.785589037,47.35839446,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Pf%C3%A4ffikon_Strandbad%20Baumen_Pf%C3%A4ffikersee_2021-07-22.jpg
+2021-05-27,999327,Pfäffikon / Strandbad Baumen,Ausgezeichnet,,Kantonales Labor Zürich,8.785589037,47.35839446,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Pf%C3%A4ffikon_Strandbad%20Baumen_Pf%C3%A4ffikersee_2021-07-22.jpg
+2021-06-24,999327,Pfäffikon / Strandbad Baumen,Gut,,Kantonales Labor Zürich,8.785589037,47.35839446,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Pf%C3%A4ffikon_Strandbad%20Baumen_Pf%C3%A4ffikersee_2021-07-22.jpg
+2019-07-09,999328,Bubikon / Badeplatz Egelsee,Ausgezeichnet,,Kantonales Labor Zürich,8.819776858,47.25795711,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Bubikon_Badeplatz%20Egelsee_2021-07-26.jpg
+2020-06-02,999328,Bubikon / Badeplatz Egelsee,Ausgezeichnet,,Kantonales Labor Zürich,8.819776858,47.25795711,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Bubikon_Badeplatz%20Egelsee_2021-07-26.jpg
+2019-07-09,999329,Hombrechtikon / Badeplatz Lützelsee,Ausgezeichnet,,Kantonales Labor Zürich,8.772136115,47.25878813,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Hombrechtikon_Badeplatz%20L%C3%BCtzelsee_2021-07-26.jpg
+2020-06-02,999329,Hombrechtikon / Badeplatz Lützelsee,Ausgezeichnet,,Kantonales Labor Zürich,8.772136115,47.25878813,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Hombrechtikon_Badeplatz%20L%C3%BCtzelsee_2021-07-26.jpg
+2019-07-09,999331,Bauma / Campingplatz Saland,Gut,,Kantonales Labor Zürich,8.858712913,47.38996588,
+2020-06-02,999331,Bauma / Campingplatz Saland,Ausgezeichnet,,Kantonales Labor Zürich,8.858712913,47.38996588,
+2019-07-09,999332,Weisslingen / Badeplatz Brauiweiher,Ausgezeichnet,,Kantonales Labor Zürich,8.753391313,47.42541313,
+2020-06-02,999332,Weisslingen / Badeplatz Brauiweiher,Ausgezeichnet,,Kantonales Labor Zürich,8.753391313,47.42541313,
+2019-07-03,999333,Hausen am Albis / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.510330359,47.26560376,
+2020-06-03,999333,Hausen am Albis / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.510330359,47.26560376,
+2021-06-07,999333,Hausen am Albis / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.510330359,47.26560376,
+2019-07-03,999334,Aeugst am Albis / Fischersteg,Ausgezeichnet,,Kantonales Labor Zürich,8.501958226,47.26590617,
+2020-06-03,999334,Aeugst am Albis / Fischersteg,Ausgezeichnet,,Kantonales Labor Zürich,8.501958226,47.26590617,
+2021-06-07,999334,Aeugst am Albis / Fischersteg,Ausgezeichnet,,Kantonales Labor Zürich,8.501958226,47.26590617,
+2019-07-03,999335,Aeugst am Albis / Badeplatz Türlersee,Ausgezeichnet,,Kantonales Labor Zürich,8.501048075,47.27263409,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/AeugstaA._Badeplatz_Tuerlersee_2021-06-07.jpg
+2020-06-03,999335,Aeugst am Albis / Badeplatz Türlersee,Ausgezeichnet,,Kantonales Labor Zürich,8.501048075,47.27263409,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/AeugstaA._Badeplatz_Tuerlersee_2021-06-07.jpg
+2021-06-07,999335,Aeugst am Albis / Badeplatz Türlersee,Ausgezeichnet,,Kantonales Labor Zürich,8.501048075,47.27263409,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/AeugstaA._Badeplatz_Tuerlersee_2021-06-07.jpg
+2019-07-03,999336,Hedingen / Badeplatz Hedingerweiher,Ausgezeichnet,,Kantonales Labor Zürich,8.454995059,47.29518657,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Hedingen_Badeplatz_Hedingerweiher_.2021-06-07.jpg
+2020-06-03,999336,Hedingen / Badeplatz Hedingerweiher,Ausgezeichnet,,Kantonales Labor Zürich,8.454995059,47.29518657,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Hedingen_Badeplatz_Hedingerweiher_.2021-06-07.jpg
+2021-06-07,999336,Hedingen / Badeplatz Hedingerweiher,Ausgezeichnet,,Kantonales Labor Zürich,8.454995059,47.29518657,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Hedingen_Badeplatz_Hedingerweiher_.2021-06-07.jpg
+2019-07-03,999337,Horgen / Badeplatz Horgenerweiher,Gut,,Kantonales Labor Zürich,8.59904787,47.24338036,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Horgen_Badeplatz_Horgenerweiher_2021-06-07.jpg
+2020-06-03,999337,Horgen / Badeplatz Horgenerweiher,Ausgezeichnet,,Kantonales Labor Zürich,8.59904787,47.24338036,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Horgen_Badeplatz_Horgenerweiher_2021-06-07.jpg
+2021-06-07,999337,Horgen / Badeplatz Horgenerweiher,Gut,,Kantonales Labor Zürich,8.59904787,47.24338036,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Horgen_Badeplatz_Horgenerweiher_2021-06-07.jpg
+2019-07-03,999338,Wädenswil / Badeplatz Bachgadenweiher,Gut,,Kantonales Labor Zürich,8.63394623,47.22325113,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Waedenswil_Badeplatz_Bachgadenweiher_2021-06-07.jpg
+2020-06-03,999338,Wädenswil / Badeplatz Bachgadenweiher,Gut,,Kantonales Labor Zürich,8.63394623,47.22325113,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Waedenswil_Badeplatz_Bachgadenweiher_2021-06-07.jpg
+2020-06-15,999338,Wädenswil / Badeplatz Bachgadenweiher,Ausgezeichnet,,Kantonales Labor Zürich,8.63394623,47.22325113,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Waedenswil_Badeplatz_Bachgadenweiher_2021-06-07.jpg
+2021-06-07,999338,Wädenswil / Badeplatz Bachgadenweiher,Ausreichend,,Kantonales Labor Zürich,8.63394623,47.22325113,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Waedenswil_Badeplatz_Bachgadenweiher_2021-06-07.jpg
+2021-06-28,999338,Wädenswil / Badeplatz Bachgadenweiher,Ausgezeichnet,,Kantonales Labor Zürich,8.63394623,47.22325113,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Waedenswil_Badeplatz_Bachgadenweiher_2021-06-07.jpg
+2019-07-03,999339,Hütten / Badeplatz Hüttnersee,Gut,,Kantonales Labor Zürich,8.677484307,47.18461284,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Huetten_Badeplatz_Huettnersee_2021-06-07.jpg
+2020-06-03,999339,Hütten / Badeplatz Hüttnersee,Ausgezeichnet,,Kantonales Labor Zürich,8.677484307,47.18461284,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Huetten_Badeplatz_Huettnersee_2021-06-07.jpg
+2021-06-07,999339,Hütten / Badeplatz Hüttnersee,Ausgezeichnet,,Kantonales Labor Zürich,8.677484307,47.18461284,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Huetten_Badeplatz_Huettnersee_2021-06-07.jpg
+2019-07-29,999340,Niederhasli / Badeplatz Mettmenhaslisee,Ausgezeichnet,,Kantonales Labor Zürich,8.490823994,47.47348868,
+2020-06-04,999340,Niederhasli / Badeplatz Mettmenhaslisee,Ausgezeichnet,,Kantonales Labor Zürich,8.490823994,47.47348868,
+2021-06-30,999340,Niederhasli / Badeplatz Mettmenhaslisee,Ausgezeichnet,,Kantonales Labor Zürich,8.490823994,47.47348868,
+2019-07-29,999341,Zürich / Seebad Katzensee Schwimmerbereich,Ausgezeichnet,,Kantonales Labor Zürich,8.492917386,47.43117587,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Seebad%20Katzensee%20Schwimmerbereich_2021-07-27.jpg
+2019-08-29,999341,Zürich / Seebad Katzensee Schwimmerbereich,Ausgezeichnet,,Kantonales Labor Zürich,8.492917386,47.43117587,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Seebad%20Katzensee%20Schwimmerbereich_2021-07-27.jpg
+2020-05-25,999341,Zürich / Seebad Katzensee Schwimmerbereich,Ausgezeichnet,,Kantonales Labor Zürich,8.492917386,47.43117587,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Seebad%20Katzensee%20Schwimmerbereich_2021-07-27.jpg
+2020-06-30,999341,Zürich / Seebad Katzensee Schwimmerbereich,Ausgezeichnet,,Kantonales Labor Zürich,8.492917386,47.43117587,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Seebad%20Katzensee%20Schwimmerbereich_2021-07-27.jpg
+2020-07-29,999341,Zürich / Seebad Katzensee Schwimmerbereich,Ausgezeichnet,,Kantonales Labor Zürich,8.492917386,47.43117587,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Seebad%20Katzensee%20Schwimmerbereich_2021-07-27.jpg
+2020-08-25,999341,Zürich / Seebad Katzensee Schwimmerbereich,Ausgezeichnet,,Kantonales Labor Zürich,8.492917386,47.43117587,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Seebad%20Katzensee%20Schwimmerbereich_2021-07-27.jpg
+2021-05-25,999341,Zürich / Seebad Katzensee Schwimmerbereich,Ausgezeichnet,,Kantonales Labor Zürich,8.492917386,47.43117587,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Seebad%20Katzensee%20Schwimmerbereich_2021-07-27.jpg
+2021-06-30,999341,Zürich / Seebad Katzensee Schwimmerbereich,Ausgezeichnet,,Kantonales Labor Zürich,8.492917386,47.43117587,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Seebad%20Katzensee%20Schwimmerbereich_2021-07-27.jpg
+2020-06-04,999342,Opfikon-Glattbrugg / Stirnseite Zürich,Gut,,Kantonales Labor Zürich,8.562278644,47.41891009,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Opfikon_Stirnseite%20Z%C3%BCrich_Glattparksee_2021-07-27.jpg
+2021-05-25,999342,Opfikon-Glattbrugg / Stirnseite Zürich,Ausgezeichnet,,Kantonales Labor Zürich,8.562278644,47.41891009,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Opfikon_Stirnseite%20Z%C3%BCrich_Glattparksee_2021-07-27.jpg
+2020-06-04,999343,Opfikon-Glattbrugg / Stirnseite Opfikon,Ausgezeichnet,,Kantonales Labor Zürich,8.565970087,47.42300288,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Opfikon_Stirnseite%20Opfikon_Glattparksee_2021-07-27.jpg
+2021-05-25,999343,Opfikon-Glattbrugg / Stirnseite Opfikon,Ausgezeichnet,,Kantonales Labor Zürich,8.565970087,47.42300288,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Opfikon_Stirnseite%20Opfikon_Glattparksee_2021-07-27.jpg
+2020-07-30,999344,Wiesendangen / Naturbad Kefikon Seite Einlauf,Ausgezeichnet,,Kantonales Labor Zürich,8.824312882,47.54635456,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Wiesendangen_Naturbad%20Kefikon_2021-07-26.jpg
+2020-07-30,999345,Wiesendangen / Naturbad Kefikon Seite Auslauf,Ausgezeichnet,,Kantonales Labor Zürich,8.825540164,47.54654677,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Wiesendangen_Naturbad%20Kefikon_2021-07-26.jpg
+2019-07-18,999355,Fällanden / Badeplatz Rohr,Ausgezeichnet,,Kantonales Labor Zürich,8.653462485,47.36732638,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/F%C3%A4llanden_Badeplatz%20Rohr_Greifensee_2021-07-22.jpg
+2019-08-15,999355,Fällanden / Badeplatz Rohr,Ausgezeichnet,,Kantonales Labor Zürich,8.653462485,47.36732638,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/F%C3%A4llanden_Badeplatz%20Rohr_Greifensee_2021-07-22.jpg
+2020-05-28,999355,Fällanden / Badeplatz Rohr,Ausgezeichnet,,Kantonales Labor Zürich,8.653462485,47.36732638,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/F%C3%A4llanden_Badeplatz%20Rohr_Greifensee_2021-07-22.jpg
+2020-06-25,999355,Fällanden / Badeplatz Rohr,Ausgezeichnet,,Kantonales Labor Zürich,8.653462485,47.36732638,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/F%C3%A4llanden_Badeplatz%20Rohr_Greifensee_2021-07-22.jpg
+2020-07-23,999355,Fällanden / Badeplatz Rohr,Ausgezeichnet,,Kantonales Labor Zürich,8.653462485,47.36732638,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/F%C3%A4llanden_Badeplatz%20Rohr_Greifensee_2021-07-22.jpg
+2020-08-20,999355,Fällanden / Badeplatz Rohr,Ausgezeichnet,,Kantonales Labor Zürich,8.653462485,47.36732638,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/F%C3%A4llanden_Badeplatz%20Rohr_Greifensee_2021-07-22.jpg
+2021-05-27,999355,Fällanden / Badeplatz Rohr,Ausgezeichnet,,Kantonales Labor Zürich,8.653462485,47.36732638,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/F%C3%A4llanden_Badeplatz%20Rohr_Greifensee_2021-07-22.jpg
+2021-06-24,999355,Fällanden / Badeplatz Rohr,Ausgezeichnet,,Kantonales Labor Zürich,8.653462485,47.36732638,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/F%C3%A4llanden_Badeplatz%20Rohr_Greifensee_2021-07-22.jpg
+2019-07-29,999370,Zürich / Frauenbad Stadthausquai,Ausgezeichnet,,Kantonales Labor Zürich,8.542125232,47.36858778,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Frauenbadi%20Stadthausquai_Limmat_2021-07-27.jpg
+2019-08-29,999370,Zürich / Frauenbad Stadthausquai,Ausgezeichnet,,Kantonales Labor Zürich,8.542125232,47.36858778,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Frauenbadi%20Stadthausquai_Limmat_2021-07-27.jpg
+2020-05-25,999370,Zürich / Frauenbad Stadthausquai,Ausgezeichnet,,Kantonales Labor Zürich,8.542125232,47.36858778,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Frauenbadi%20Stadthausquai_Limmat_2021-07-27.jpg
+2020-06-30,999370,Zürich / Frauenbad Stadthausquai,Ausgezeichnet,,Kantonales Labor Zürich,8.542125232,47.36858778,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Frauenbadi%20Stadthausquai_Limmat_2021-07-27.jpg
+2020-07-29,999370,Zürich / Frauenbad Stadthausquai,Ausgezeichnet,,Kantonales Labor Zürich,8.542125232,47.36858778,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Frauenbadi%20Stadthausquai_Limmat_2021-07-27.jpg
+2020-08-25,999370,Zürich / Frauenbad Stadthausquai,Ausgezeichnet,,Kantonales Labor Zürich,8.542125232,47.36858778,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Frauenbadi%20Stadthausquai_Limmat_2021-07-27.jpg
+2021-05-25,999370,Zürich / Frauenbad Stadthausquai,Ausgezeichnet,,Kantonales Labor Zürich,8.542125232,47.36858778,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Frauenbadi%20Stadthausquai_Limmat_2021-07-27.jpg
+2021-06-30,999370,Zürich / Frauenbad Stadthausquai,Ausgezeichnet,,Kantonales Labor Zürich,8.542125232,47.36858778,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Frauenbadi%20Stadthausquai_Limmat_2021-07-27.jpg
+2019-07-29,999371,Zürich / Männerbad Schanzengraben,Ausgezeichnet,,Kantonales Labor Zürich,8.533065512,47.37165137,
+2019-08-29,999371,Zürich / Männerbad Schanzengraben,Gut,,Kantonales Labor Zürich,8.533065512,47.37165137,
+2020-05-25,999371,Zürich / Männerbad Schanzengraben,Ausgezeichnet,,Kantonales Labor Zürich,8.533065512,47.37165137,
+2020-06-30,999371,Zürich / Männerbad Schanzengraben,Ausgezeichnet,,Kantonales Labor Zürich,8.533065512,47.37165137,
+2020-07-29,999371,Zürich / Männerbad Schanzengraben,Ausgezeichnet,,Kantonales Labor Zürich,8.533065512,47.37165137,
+2020-08-25,999371,Zürich / Männerbad Schanzengraben,Ausgezeichnet,,Kantonales Labor Zürich,8.533065512,47.37165137,
+2021-05-25,999371,Zürich / Männerbad Schanzengraben,Ausgezeichnet,,Kantonales Labor Zürich,8.533065512,47.37165137,
+2021-06-30,999371,Zürich / Männerbad Schanzengraben,Ausgezeichnet,,Kantonales Labor Zürich,8.533065512,47.37165137,
+2019-07-29,999372,Zürich / Flussbad Oberer Letten,Ausgezeichnet,,Kantonales Labor Zürich,8.534637376,47.38563288,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Oberer%20Letten_2021-06-30.jpg
+2019-08-29,999372,Zürich / Flussbad Oberer Letten,Ausgezeichnet,,Kantonales Labor Zürich,8.534637376,47.38563288,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Oberer%20Letten_2021-06-30.jpg
+2020-05-25,999372,Zürich / Flussbad Oberer Letten,Ausgezeichnet,,Kantonales Labor Zürich,8.534637376,47.38563288,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Oberer%20Letten_2021-06-30.jpg
+2020-06-30,999372,Zürich / Flussbad Oberer Letten,Ausgezeichnet,,Kantonales Labor Zürich,8.534637376,47.38563288,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Oberer%20Letten_2021-06-30.jpg
+2020-07-29,999372,Zürich / Flussbad Oberer Letten,Ausgezeichnet,,Kantonales Labor Zürich,8.534637376,47.38563288,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Oberer%20Letten_2021-06-30.jpg
+2020-08-25,999372,Zürich / Flussbad Oberer Letten,Ausgezeichnet,,Kantonales Labor Zürich,8.534637376,47.38563288,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Oberer%20Letten_2021-06-30.jpg
+2021-05-25,999372,Zürich / Flussbad Oberer Letten,Ausgezeichnet,,Kantonales Labor Zürich,8.534637376,47.38563288,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Oberer%20Letten_2021-06-30.jpg
+2021-06-30,999372,Zürich / Flussbad Oberer Letten,Ausgezeichnet,,Kantonales Labor Zürich,8.534637376,47.38563288,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Oberer%20Letten_2021-06-30.jpg
+2019-07-29,999373,Zürich / Flussbad Unterer Letten,Ausgezeichnet,,Kantonales Labor Zürich,8.529069695,47.3892746,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Unterer%20Letten_2021-06-30.jpg
+2019-08-29,999373,Zürich / Flussbad Unterer Letten,Ausgezeichnet,,Kantonales Labor Zürich,8.529069695,47.3892746,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Unterer%20Letten_2021-06-30.jpg
+2020-05-25,999373,Zürich / Flussbad Unterer Letten,Ausgezeichnet,,Kantonales Labor Zürich,8.529069695,47.3892746,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Unterer%20Letten_2021-06-30.jpg
+2020-06-30,999373,Zürich / Flussbad Unterer Letten,Ausgezeichnet,,Kantonales Labor Zürich,8.529069695,47.3892746,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Unterer%20Letten_2021-06-30.jpg
+2020-07-29,999373,Zürich / Flussbad Unterer Letten,Ausgezeichnet,,Kantonales Labor Zürich,8.529069695,47.3892746,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Unterer%20Letten_2021-06-30.jpg
+2020-08-25,999373,Zürich / Flussbad Unterer Letten,Ausgezeichnet,,Kantonales Labor Zürich,8.529069695,47.3892746,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Unterer%20Letten_2021-06-30.jpg
+2021-05-25,999373,Zürich / Flussbad Unterer Letten,Ausgezeichnet,,Kantonales Labor Zürich,8.529069695,47.3892746,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Unterer%20Letten_2021-06-30.jpg
+2021-06-30,999373,Zürich / Flussbad Unterer Letten,Ausgezeichnet,,Kantonales Labor Zürich,8.529069695,47.3892746,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Unterer%20Letten_2021-06-30.jpg
+2019-07-24,999376,Zürich / Strandbad Wollishofen,Ausgezeichnet,,Kantonales Labor Zürich,8.538386179,47.34137701,
+2019-08-20,999376,Zürich / Strandbad Wollishofen,Ausgezeichnet,,Kantonales Labor Zürich,8.538386179,47.34137701,
+2020-05-26,999376,Zürich / Strandbad Wollishofen,Ausgezeichnet,,Kantonales Labor Zürich,8.538386179,47.34137701,
+2020-06-23,999376,Zürich / Strandbad Wollishofen,Ausgezeichnet,,Kantonales Labor Zürich,8.538386179,47.34137701,
+2020-07-20,999376,Zürich / Strandbad Wollishofen,Ausgezeichnet,,Kantonales Labor Zürich,8.538386179,47.34137701,
+2020-08-17,999376,Zürich / Strandbad Wollishofen,Ausgezeichnet,,Kantonales Labor Zürich,8.538386179,47.34137701,
+2021-05-20,999376,Zürich / Strandbad Wollishofen,Ausgezeichnet,,Kantonales Labor Zürich,8.538386179,47.34137701,
+2021-06-17,999376,Zürich / Strandbad Wollishofen,Ausgezeichnet,,Kantonales Labor Zürich,8.538386179,47.34137701,
+2021-07-15,999376,Zürich / Strandbad Wollishofen,Ausgezeichnet,,Kantonales Labor Zürich,8.538386179,47.34137701,
+2021-05-20,999377,Zürich / Seebad Enge,Ausgezeichnet,,Kantonales Labor Zürich,8.537383616,47.36144585,
+2021-06-17,999377,Zürich / Seebad Enge,Ausgezeichnet,,Kantonales Labor Zürich,8.537383616,47.36144585,
+2019-07-24,999389,Zürich / Strandbad Tiefenbrunnen,Ausgezeichnet,,Kantonales Labor Zürich,8.555170321,47.35167735,
+2019-08-20,999389,Zürich / Strandbad Tiefenbrunnen,Ausgezeichnet,,Kantonales Labor Zürich,8.555170321,47.35167735,
+2020-05-26,999389,Zürich / Strandbad Tiefenbrunnen,Ausgezeichnet,,Kantonales Labor Zürich,8.555170321,47.35167735,
+2020-06-23,999389,Zürich / Strandbad Tiefenbrunnen,Ausgezeichnet,,Kantonales Labor Zürich,8.555170321,47.35167735,
+2020-07-20,999389,Zürich / Strandbad Tiefenbrunnen,Ausgezeichnet,,Kantonales Labor Zürich,8.555170321,47.35167735,
+2020-08-17,999389,Zürich / Strandbad Tiefenbrunnen,Ausgezeichnet,,Kantonales Labor Zürich,8.555170321,47.35167735,
+2021-05-20,999389,Zürich / Strandbad Tiefenbrunnen,Ausgezeichnet,,Kantonales Labor Zürich,8.555170321,47.35167735,
+2021-06-17,999389,Zürich / Strandbad Tiefenbrunnen,Ausgezeichnet,,Kantonales Labor Zürich,8.555170321,47.35167735,
+2021-07-15,999389,Zürich / Strandbad Tiefenbrunnen,Ausgezeichnet,,Kantonales Labor Zürich,8.555170321,47.35167735,
+2019-07-29,999378,Zürich / Seebad Katzensee Nichtschwimmerbereich,Ausgezeichnet,,Kantonales Labor Zürich,8.493411148,47.43134227,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Seebad%20Katzensee%20Nchtschwimmerbereich_2021-07-27.jpg
+2019-08-29,999378,Zürich / Seebad Katzensee Nichtschwimmerbereich,Ausgezeichnet,,Kantonales Labor Zürich,8.493411148,47.43134227,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Seebad%20Katzensee%20Nchtschwimmerbereich_2021-07-27.jpg
+2020-05-25,999378,Zürich / Seebad Katzensee Nichtschwimmerbereich,Gut,,Kantonales Labor Zürich,8.493411148,47.43134227,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Seebad%20Katzensee%20Nchtschwimmerbereich_2021-07-27.jpg
+2020-06-30,999378,Zürich / Seebad Katzensee Nichtschwimmerbereich,Ausgezeichnet,,Kantonales Labor Zürich,8.493411148,47.43134227,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Seebad%20Katzensee%20Nchtschwimmerbereich_2021-07-27.jpg
+2020-07-29,999378,Zürich / Seebad Katzensee Nichtschwimmerbereich,Ausgezeichnet,,Kantonales Labor Zürich,8.493411148,47.43134227,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Seebad%20Katzensee%20Nchtschwimmerbereich_2021-07-27.jpg
+2020-08-25,999378,Zürich / Seebad Katzensee Nichtschwimmerbereich,Ausgezeichnet,,Kantonales Labor Zürich,8.493411148,47.43134227,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Seebad%20Katzensee%20Nchtschwimmerbereich_2021-07-27.jpg
+2021-05-25,999378,Zürich / Seebad Katzensee Nichtschwimmerbereich,Ausgezeichnet,,Kantonales Labor Zürich,8.493411148,47.43134227,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Seebad%20Katzensee%20Nchtschwimmerbereich_2021-07-27.jpg
+2021-06-30,999378,Zürich / Seebad Katzensee Nichtschwimmerbereich,Ausgezeichnet,,Kantonales Labor Zürich,8.493411148,47.43134227,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Seebad%20Katzensee%20Nchtschwimmerbereich_2021-07-27.jpg
+2019-07-24,999390,Zürich / Strandbad Mythenquai,Ausgezeichnet,,Kantonales Labor Zürich,8.537365928,47.35352126,
+2019-08-20,999390,Zürich / Strandbad Mythenquai,Ausgezeichnet,,Kantonales Labor Zürich,8.537365928,47.35352126,
+2020-05-26,999390,Zürich / Strandbad Mythenquai,Ausgezeichnet,,Kantonales Labor Zürich,8.537365928,47.35352126,
+2020-06-23,999390,Zürich / Strandbad Mythenquai,Ausgezeichnet,,Kantonales Labor Zürich,8.537365928,47.35352126,
+2020-07-20,999390,Zürich / Strandbad Mythenquai,Ausgezeichnet,,Kantonales Labor Zürich,8.537365928,47.35352126,
+2020-08-17,999390,Zürich / Strandbad Mythenquai,Ausgezeichnet,,Kantonales Labor Zürich,8.537365928,47.35352126,
+2021-05-20,999390,Zürich / Strandbad Mythenquai,Ausgezeichnet,,Kantonales Labor Zürich,8.537365928,47.35352126,
+2021-06-17,999390,Zürich / Strandbad Mythenquai,Ausgezeichnet,,Kantonales Labor Zürich,8.537365928,47.35352126,
+2021-07-15,999390,Zürich / Strandbad Mythenquai,Ausgezeichnet,,Kantonales Labor Zürich,8.537365928,47.35352126,
+2021-05-31,SH_1,Flurlingen / Strandbad,Ausgezeichnet,,Interkantonales Labor Schaffhausen,8.625251787,47.6886638,
+2021-05-31,SH_2,Flaach / Campingplatz,Ausgezeichnet,,Interkantonales Labor Schaffhausen,8.581053527,47.57974062,
+2021-05-31,SH_3,Flaach / Thurbrücke Mitte,Gut,,Interkantonales Labor Schaffhausen,8.606571887,47.59439006,
+2021-07-22,999295,Egg / Seebadi Egg,Gut,,Kantonales Labor Zürich,8.696417198,47.32199702,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Egg_Seebadi%20Egg_Greifensee_2021-07-22.jpg
+2021-07-22,999298,Maur / Strandbad Maur,Ausgezeichnet,,Kantonales Labor Zürich,8.675291407,47.34601842,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Strandbad%20Maur_Greifensee_2021-07-22.jpg
+2021-07-22,999299,Maur / Zeltklub Zürich,Ausgezeichnet,,Kantonales Labor Zürich,8.669820959,47.34697644,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Zeltklub%20Z%C3%BCrich_Greifensee_2021-07-22.jpg
+2021-07-22,999301,Maur / Campingplatz Naturfreunde,Ausgezeichnet,,Kantonales Labor Zürich,8.664003321,47.35356901,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Campingplatz%20Naturfreunde_Greifenseee_2021-07-22.jpg
+2021-07-22,999302,Maur / Campingplatz TCS,Ausgezeichnet,,Kantonales Labor Zürich,8.659426491,47.35601927,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Campingplatz%20TCS_Greifensee_2021-07-22.jpg
+2021-07-22,999303,Fällanden / Jugendherberge,Ausgezeichnet,,Kantonales Labor Zürich,8.654222538,47.36117455,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/F%C3%A4llanden_Jugendherberge_Greifensee_2021-07-22.jpg
+2021-07-22,999355,Fällanden / Badeplatz Rohr,Ausgezeichnet,,Kantonales Labor Zürich,8.653462485,47.36732638,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/F%C3%A4llanden_Badeplatz%20Rohr_Greifensee_2021-07-22.jpg
+2021-07-22,999304,Greifensee / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.671345143,47.36653419,
+2021-07-22,999294,Uster / Einmündung Aabach,Ausgezeichnet,,Kantonales Labor Zürich,8.689203251,47.35004244,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Uster_Einm%C3%BCndung%20Aabach_Greifensee_2021-07-22.jpg
+2021-07-22,999293,Uster / Strandbad Uster,Ausgezeichnet,,Kantonales Labor Zürich,8.690639706,47.34131925,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Uster_Strandbad%20Uster_Greifensee_2021-07-22.jpg
+2021-07-22,999325,Seegräben / Strandbad Seegräben,Ausgezeichnet,,Kantonales Labor Zürich,8.774707083,47.34572014,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Seegr%C3%A4ben_Strandbad%20Seegr%C3%A4ben_Pf%C3%A4ffikersee_2021-07-22.jpg
+2021-07-22,999326,Pfäffikon / Strandbad Auslikon,Ausgezeichnet,,Kantonales Labor Zürich,8.789858274,47.34298,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Pf%C3%A4ffikon_Strandbad%20Auslikon_Pf%C3%A4ffikersee_2021-07-22.jpg
+2021-07-22,999327,Pfäffikon / Strandbad Baumen,Ausgezeichnet,,Kantonales Labor Zürich,8.785589037,47.35839446,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Pf%C3%A4ffikon_Strandbad%20Baumen_Pf%C3%A4ffikersee_2021-07-22.jpg
+2021-07-21,SH_1,Flurlingen / Strandbad,Ausreichend,,Interkantonales Labor Schaffhausen,8.625251787,47.6886638,
+2021-07-21,SH_2,Flaach / Campingplatz,Gut,,Interkantonales Labor Schaffhausen,8.581053527,47.57974062,
+2021-07-21,SH_3,Flaach / Thurbrücke Mitte,Gut,,Interkantonales Labor Schaffhausen,8.606571887,47.59439006,
+2021-07-26,999332,Weisslingen / Badeplatz Brauiweiher,Ausgezeichnet,,Kantonales Labor Zürich,8.753391313,47.42541313,
+2021-07-26,999344,Wiesendangen / Naturbad Kefikon Seite Einlauf,Ausreichend,,Kantonales Labor Zürich,8.824312882,47.54635456,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Wiesendangen_Naturbad%20Kefikon_2021-07-26.jpg
+2021-07-26,999345,Wiesendangen / Naturbad Kefikon Seite Auslauf,Ausreichend,,Kantonales Labor Zürich,8.825540164,47.54654677,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Wiesendangen_Naturbad%20Kefikon_2021-07-26.jpg
+2021-07-26,999331,Bauma / Campingplatz Saland,Ausreichend,,Kantonales Labor Zürich,8.858712913,47.38996588,
+2021-07-26,999328,Bubikon / Badeplatz Egelsee,Gut,,Kantonales Labor Zürich,8.819776858,47.25795711,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Bubikon_Badeplatz%20Egelsee_2021-07-26.jpg
+2021-07-26,999329,Hombrechtikon / Badeplatz Lützelsee,Ausgezeichnet,,Kantonales Labor Zürich,8.772136115,47.25878813,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Hombrechtikon_Badeplatz%20L%C3%BCtzelsee_2021-07-26.jpg
+2021-07-27,999370,Zürich / Frauenbad Stadthausquai,Ausgezeichnet,,Kantonales Labor Zürich,8.542125232,47.36858778,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Frauenbadi%20Stadthausquai_Limmat_2021-07-27.jpg
+2021-07-27,999372,Zürich / Flussbad Oberer Letten,Ausgezeichnet,,Kantonales Labor Zürich,8.534637376,47.38563288,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Oberer%20Letten_2021-06-30.jpg
+2021-07-27,999373,Zürich / Flussbad Unterer Letten,Ausgezeichnet,,Kantonales Labor Zürich,8.529069695,47.3892746,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Unterer%20Letten_2021-06-30.jpg
+2021-07-27,999308,Zürich / Flussbad Au-Höngg,Ausreichend,,Kantonales Labor Zürich,8.491244021,47.3995019,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Au%20Hoengg_2021-06-30.jpg
+2021-07-27,999371,Zürich / Männerbad Schanzengraben,Ausgezeichnet,,Kantonales Labor Zürich,8.533065512,47.37165137,
+2021-07-27,999341,Zürich / Seebad Katzensee Schwimmerbereich,Ausgezeichnet,,Kantonales Labor Zürich,8.492917386,47.43117587,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Seebad%20Katzensee%20Schwimmerbereich_2021-07-27.jpg
+2021-07-27,999378,Zürich / Seebad Katzensee Nichtschwimmerbereich,Ausgezeichnet,,Kantonales Labor Zürich,8.493411148,47.43134227,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Seebad%20Katzensee%20Nchtschwimmerbereich_2021-07-27.jpg
+2021-07-27,999343,Opfikon-Glattbrugg / Stirnseite Opfikon,Ausgezeichnet,,Kantonales Labor Zürich,8.565970087,47.42300288,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Opfikon_Stirnseite%20Opfikon_Glattparksee_2021-07-27.jpg
+2021-07-27,999342,Opfikon-Glattbrugg / Stirnseite Zürich,Ausgezeichnet,,Kantonales Labor Zürich,8.562278644,47.41891009,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Opfikon_Stirnseite%20Z%C3%BCrich_Glattparksee_2021-07-27.jpg
+2021-08-03,999308,Zürich / Flussbad Au-Höngg,Ausgezeichnet,,Kantonales Labor Zürich,8.491244021,47.3995019,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Au%20Hoengg_2021-06-30.jpg
+2021-08-11,999270,Thalwil / Strandbad Bürger 2,Ausgezeichnet,,Kantonales Labor Zürich,8.573591387,47.28993364,
+2021-08-11,999269,Oberrieden / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.581744764,47.27678272,
+2021-08-11,999267,Zollikon / Seebad,Ausgezeichnet,,Kantonales Labor Zürich,8.568319857,47.33758878,
+2021-08-11,999255,Zürich / Seebad Utoquai,Ausgezeichnet,,Kantonales Labor Zürich,8.545740002,47.36158192,
+2021-08-11,999272,Rüschlikon / Seebad,Ausgezeichnet,,Kantonales Labor Zürich,8.55643583,47.31291344,
+2021-08-11,999274,Küsnacht / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.582979525,47.30972971,
+2021-08-11,999292,Uetikon am See / Strandbad Uetikon,Ausgezeichnet,,Kantonales Labor Zürich,8.676977569,47.25790677,
+2021-08-11,999291,Männedorf / Strandbad Sonnenfeld,Ausgezeichnet,,Kantonales Labor Zürich,8.705561742,47.24525391,
+2021-08-11,999290,Stäfa / Seebad Lattenberg,Ausgezeichnet,,Kantonales Labor Zürich,8.710700612,47.24137408,
+2021-08-11,999287,Hombrechtikon / Strandbad Feldbach,Ausgezeichnet,,Kantonales Labor Zürich,8.789153555,47.23520047,
+2021-08-11,999286,Richterswil / Seebad,Ausgezeichnet,,Kantonales Labor Zürich,8.712589656,47.20647641,
+2021-08-11,999282,Horgen / Sportbad Käpfnach,Ausgezeichnet,,Kantonales Labor Zürich,8.617624794,47.25555171,
+2021-08-11,999276,Erlenbach / Strandbad Winkel,Ausgezeichnet,,Kantonales Labor Zürich,8.596149599,47.29740053,
+2021-08-11,999376,Zürich / Strandbad Wollishofen,Ausgezeichnet,,Kantonales Labor Zürich,8.538386179,47.34137701,
+2021-08-11,999390,Zürich / Strandbad Mythenquai,Ausgezeichnet,,Kantonales Labor Zürich,8.537365928,47.35352126,
+2021-08-11,999389,Zürich / Strandbad Tiefenbrunnen,Ausgezeichnet,,Kantonales Labor Zürich,8.555170321,47.35167735,
+2019-07-24,999377,Zürich / Seebad Enge,Ausgezeichnet,,Kantonales Labor Zürich,8.537383616,47.36144585,
+2019-08-20,999377,Zürich / Seebad Enge,Ausgezeichnet,,Kantonales Labor Zürich,8.537383616,47.36144585,
+2020-05-26,999377,Zürich / Seebad Enge,Ausgezeichnet,,Kantonales Labor Zürich,8.537383616,47.36144585,
+2020-06-23,999377,Zürich / Seebad Enge,Ausgezeichnet,,Kantonales Labor Zürich,8.537383616,47.36144585,
+2020-07-20,999377,Zürich / Seebad Enge,Ausgezeichnet,,Kantonales Labor Zürich,8.537383616,47.36144585,
+2020-08-17,999377,Zürich / Seebad Enge,Ausgezeichnet,,Kantonales Labor Zürich,8.537383616,47.36144585,
+2021-07-15,999377,Zürich / Seebad Enge,Ausgezeichnet,,Kantonales Labor Zürich,8.537383616,47.36144585,
+2021-08-11,999277,Herrliberg / Steinrad,Ausgezeichnet,,Kantonales Labor Zürich,8.600435283,47.29139345,
+2021-08-11,999284,Wädenswil / Strandbad Rietliau,Ausgezeichnet,,Kantonales Labor Zürich,8.661626277,47.23954862,
+2021-08-11,999273,Kilchberg / Seebad Schoren,Ausgezeichnet,,Kantonales Labor Zürich,8.554211951,47.31852105,
+2021-08-11,999279,Meilen / Strandbad Ländeli,Ausgezeichnet,,Kantonales Labor Zürich,8.661150607,47.26321226,
+2021-08-11,999377,Zürich / Seebad Enge,Ausgezeichnet,,Kantonales Labor Zürich,8.537383616,47.36144585,
+2021-08-10,SH_1,Flurlingen / Strandbad,Ausreichend,,Interkantonales Labor Schaffhausen,8.625251787,47.6886638,
+2021-08-10,SH_2,Flaach / Campingplatz,Gut,,Interkantonales Labor Schaffhausen,8.581053527,47.57974062,
+2021-08-10,SH_3,Flaach / Thurbrücke Mitte,Gut,,Interkantonales Labor Schaffhausen,8.606571887,47.59439006,
+2021-08-18,999370,Zürich / Frauenbad Stadthausquai,Ausgezeichnet,,Kantonales Labor Zürich,8.542125232,47.36858778,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Frauenbadi%20Stadthausquai_Limmat_2021-07-27.jpg
+2021-08-18,999372,Zürich / Flussbad Oberer Letten,Ausgezeichnet,,Kantonales Labor Zürich,8.534637376,47.38563288,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Oberer%20Letten_2021-06-30.jpg
+2021-08-18,999373,Zürich / Flussbad Unterer Letten,Ausgezeichnet,,Kantonales Labor Zürich,8.529069695,47.3892746,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Unterer%20Letten_2021-06-30.jpg
+2021-08-18,999308,Zürich / Flussbad Au-Höngg,Ausgezeichnet,,Kantonales Labor Zürich,8.491244021,47.3995019,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Au%20Hoengg_2021-06-30.jpg
+2021-08-18,999371,Zürich / Männerbad Schanzengraben,Ausgezeichnet,,Kantonales Labor Zürich,8.533065512,47.37165137,
+2021-08-18,999341,Zürich / Seebad Katzensee Schwimmerbereich,Ausgezeichnet,,Kantonales Labor Zürich,8.492917386,47.43117587,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Seebad%20Katzensee%20Schwimmerbereich_2021-07-27.jpg
+2021-08-18,999378,Zürich / Seebad Katzensee Nichtschwimmerbereich,Ausgezeichnet,,Kantonales Labor Zürich,8.493411148,47.43134227,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Seebad%20Katzensee%20Nchtschwimmerbereich_2021-07-27.jpg
+2021-08-18,999324,Ossingen / Badeplatz Husemersee,Ausgezeichnet,,Kantonales Labor Zürich,8.703690368,47.62087988,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Ossingen_Badeplatz_Husemersee_2021-08-18_1500.jpg
+2021-08-18,999320,Eglisau / Badeplatz Rhein,Gut,,Kantonales Labor Zürich,8.527569957,47.57449194,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Eglisau_Badeplatz_Rhein_2021-08-18_1500.jpg
+2021-08-19,999295,Egg / Seebadi Egg,Ausgezeichnet,,Kantonales Labor Zürich,8.696417198,47.32199702,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Egg_Seebadi%20Egg_Greifensee_2021-07-22.jpg
+2021-08-19,999298,Maur / Strandbad Maur,Ausgezeichnet,,Kantonales Labor Zürich,8.675291407,47.34601842,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Strandbad%20Maur_Greifensee_2021-07-22.jpg
+2021-08-19,999299,Maur / Zeltklub Zürich,Ausgezeichnet,,Kantonales Labor Zürich,8.669820959,47.34697644,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Zeltklub%20Z%C3%BCrich_Greifensee_2021-07-22.jpg
+2021-08-19,999301,Maur / Campingplatz Naturfreunde,Ausgezeichnet,,Kantonales Labor Zürich,8.664003321,47.35356901,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Campingplatz%20Naturfreunde_Greifenseee_2021-07-22.jpg
+2021-08-19,999303,Fällanden / Jugendherberge,Ausgezeichnet,,Kantonales Labor Zürich,8.654222538,47.36117455,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/F%C3%A4llanden_Jugendherberge_Greifensee_2021-07-22.jpg
+2021-08-19,999355,Fällanden / Badeplatz Rohr,Ausgezeichnet,,Kantonales Labor Zürich,8.653462485,47.36732638,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/F%C3%A4llanden_Badeplatz%20Rohr_Greifensee_2021-07-22.jpg
+2021-08-19,999304,Greifensee / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.671345143,47.36653419,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Greifensee_Strandbad_Greifensee_2021-08-18_1500.jpg
+2021-08-19,999294,Uster / Einmündung Aabach,Ausgezeichnet,,Kantonales Labor Zürich,8.689203251,47.35004244,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Uster_Einm%C3%BCndung%20Aabach_Greifensee_2021-07-22.jpg
+2021-08-19,999293,Uster / Strandbad Uster,Ausgezeichnet,,Kantonales Labor Zürich,8.690639706,47.34131925,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Uster_Strandbad%20Uster_Greifensee_2021-07-22.jpg
+2021-08-19,999325,Seegräben / Strandbad Seegräben,Ausgezeichnet,,Kantonales Labor Zürich,8.774707083,47.34572014,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Seegr%C3%A4ben_Strandbad%20Seegr%C3%A4ben_Pf%C3%A4ffikersee_2021-07-22.jpg
+2021-08-19,999327,Pfäffikon / Strandbad Baumen,Gut,,Kantonales Labor Zürich,8.785589037,47.35839446,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Pf%C3%A4ffikon_Strandbad%20Baumen_Pf%C3%A4ffikersee_2021-07-22.jpg
+2021-08-19,999326,Pfäffikon / Strandbad Auslikon,Ausgezeichnet,,Kantonales Labor Zürich,8.789858274,47.34298,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Pf%C3%A4ffikon_Strandbad%20Auslikon_Pf%C3%A4ffikersee_2021-07-22.jpg
+2021-08-25,999331,Bauma / Campingplatz Saland,Gut,,Kantonales Labor Zürich,8.858712913,47.38996588,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/Saland_Campingplatz_T%C3%B6ss_2021-08-25.jpg
+2021-08-25,999344,Wiesendangen / Naturbad Kefikon Seite Einlauf,Ausgezeichnet,,Kantonales Labor Zürich,8.824312882,47.54635456,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Wiesendangen_Naturbad%20Kefikon_2021-07-26.jpg
+2021-08-25,999345,Wiesendangen / Naturbad Kefikon Seite Auslauf,Ausgezeichnet,,Kantonales Labor Zürich,8.825540164,47.54654677,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Wiesendangen_Naturbad%20Kefikon_2021-07-26.jpg
+2022-05-23,999370,Zürich / Frauenbad Stadthausquai,Gut,,Kantonales Labor Zürich,8.542125232,47.36858778,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Frauenbadi%20Stadthausquai_Limmat_2021-07-27.jpg
+2022-05-23,999372,Zürich / Flussbad Oberer Letten,Ausgezeichnet,,Kantonales Labor Zürich,8.534637376,47.38563288,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Oberer%20Letten_2021-06-30.jpg
+2022-05-23,999373,Zürich / Flussbad Unterer Letten,Ausgezeichnet,,Kantonales Labor Zürich,8.529069695,47.3892746,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Unterer%20Letten_2021-06-30.jpg
+2022-05-23,999371,Zürich / Männerbad Schanzengraben,Ausgezeichnet,,Kantonales Labor Zürich,8.533065512,47.37165137,
+2022-05-23,999308,Zürich / Flussbad Au-Höngg,Ausgezeichnet,,Kantonales Labor Zürich,8.491244021,47.3995019,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Au%20Hoengg_2021-06-30.jpg
+2022-05-23,999341,Zürich / Seebad Katzensee Schwimmerbereich,Ausgezeichnet,,Kantonales Labor Zürich,8.492917386,47.43117587,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Seebad%20Katzensee%20Schwimmerbereich_2021-07-27.jpg
+2022-05-23,999378,Zürich / Seebad Katzensee Nichtschwimmerbereich,Ausgezeichnet,,Kantonales Labor Zürich,8.493411148,47.43134227,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Seebad%20Katzensee%20Nchtschwimmerbereich_2021-07-27.jpg
+2022-05-23,999343,Opfikon-Glattbrugg / Stirnseite Opfikon,Ausgezeichnet,,Kantonales Labor Zürich,8.565970087,47.42300288,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Opfikon_Stirnseite%20Opfikon_Glattparksee_2021-07-27.jpg
+2022-05-23,999342,Opfikon-Glattbrugg / Stirnseite Zürich,Gut,,Kantonales Labor Zürich,8.562278644,47.41891009,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Opfikon_Stirnseite%20Z%C3%BCrich_Glattparksee_2021-07-27.jpg
+2022-05-24,999295,Egg / Seebadi Egg,Ausgezeichnet,,Kantonales Labor Zürich,8.696417198,47.32199702,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Egg_Seebadi%20Egg_Greifensee_2021-07-22.jpg
+2022-05-24,999298,Maur / Strandbad Maur,Ausgezeichnet,,Kantonales Labor Zürich,8.675291407,47.34601842,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Strandbad%20Maur_Greifensee_2021-07-22.jpg
+2022-05-24,999299,Maur / Zeltklub Zürich,Ausgezeichnet,,Kantonales Labor Zürich,8.669820959,47.34697644,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Zeltklub%20Z%C3%BCrich_Greifensee_2021-07-22.jpg
+2022-05-24,999301,Maur / Campingplatz Naturfreunde,Ausgezeichnet,,Kantonales Labor Zürich,8.664003321,47.35356901,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Campingplatz%20Naturfreunde_Greifenseee_2021-07-22.jpg
+2022-05-24,999302,Maur / Campingplatz TCS,Ausgezeichnet,,Kantonales Labor Zürich,8.659426491,47.35601927,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Campingplatz%20TCS_Greifensee_2021-07-22.jpg
+2022-05-23,999303,Fällanden / Jugendherberge,Ausgezeichnet,,Kantonales Labor Zürich,8.654222538,47.36117455,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/F%C3%A4llanden_Jugendherberge_Greifensee_2021-07-22.jpg
+2022-05-24,999355,Fällanden / Badeplatz Rohr,Ausgezeichnet,,Kantonales Labor Zürich,8.653462485,47.36732638,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/F%C3%A4llanden_Badeplatz%20Rohr_Greifensee_2021-07-22.jpg
+2022-05-24,999304,Greifensee / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.671345143,47.36653419,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Greifensee_Strandbad_Greifensee_2021-08-18_1500.jpg
+2022-05-24,999294,Uster / Einmündung Aabach,Gut,,Kantonales Labor Zürich,8.689203251,47.35004244,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Uster_Einm%C3%BCndung%20Aabach_Greifensee_2021-07-22.jpg
+2022-05-24,999293,Uster / Strandbad Uster,Ausgezeichnet,,Kantonales Labor Zürich,8.690639706,47.34131925,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Uster_Strandbad%20Uster_Greifensee_2021-07-22.jpg
+2022-05-24,999325,Seegräben / Strandbad Seegräben,Ausgezeichnet,,Kantonales Labor Zürich,8.774707083,47.34572014,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Seegr%C3%A4ben_Strandbad%20Seegr%C3%A4ben_Pf%C3%A4ffikersee_2021-07-22.jpg
+2022-05-24,999327,Pfäffikon / Strandbad Baumen,Ausgezeichnet,,Kantonales Labor Zürich,8.785589037,47.35839446,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Pf%C3%A4ffikon_Strandbad%20Baumen_Pf%C3%A4ffikersee_2021-07-22.jpg
+2022-05-24,999326,Pfäffikon / Strandbad Auslikon,Ausgezeichnet,,Kantonales Labor Zürich,8.789858274,47.34298,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Pf%C3%A4ffikon_Strandbad%20Auslikon_Pf%C3%A4ffikersee_2021-07-22.jpg
+2022-05-30,999267,Zollikon / Seebad,Ausgezeichnet,,Kantonales Labor Zürich,8.568319857,47.33758878,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Zollikon_2022-05-30.jpg.jpg
+2022-05-30,999269,Oberrieden / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.581744764,47.27678272,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Oberrieden_2022-05-30.jpg.jpg
+2022-05-30,999268,Küsnacht / Kusenbad,Ausgezeichnet,,Kantonales Labor Zürich,8.576564031,47.3227105,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Kuesnacht_Kusenbad_2022-05-30.jpg.jpg
+2022-05-30,999270,Thalwil / Strandbad Bürger 2,Ausgezeichnet,,Kantonales Labor Zürich,8.573591387,47.28993364,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Thalwil_B%C3%BCrger_2022-05-30.jpg.jpg
+2022-05-30,999271,Thalwil / Strandbad Ludretikon,Ausgezeichnet,,Kantonales Labor Zürich,8.564271932,47.30002785,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Thalwil_Ludretikon_2022-05-30.jpg.jpg
+2022-05-30,999255,Zürich / Seebad Utoquai,Ausgezeichnet,,Kantonales Labor Zürich,8.545740002,47.36158192,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Utoquai_2022-05-30.jpg.jpg
+2022-05-30,999272,Rüschlikon / Seebad,Ausgezeichnet,,Kantonales Labor Zürich,8.55643583,47.31291344,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Rueschlikon_2022-05-30.jpg.jpg
+2022-05-30,999274,Küsnacht / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.582979525,47.30972971,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Kuesnacht_Strandbad_2022-05-30.jpg.jpg
+2022-05-30,999273,Kilchberg / Seebad Schoren,Ausgezeichnet,,Kantonales Labor Zürich,8.554211951,47.31852105,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Kilchberg_2022-05-30.jpg.jpg
+2022-05-30,999276,Erlenbach / Strandbad Winkel,Ausgezeichnet,,Kantonales Labor Zürich,8.596149599,47.29740053,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Erlenbach_Winkel_2022-05-30.jpg.jpg
+2022-05-30,999389,Zürich / Strandbad Tiefenbrunnen,Ausgezeichnet,,Kantonales Labor Zürich,8.555170321,47.35167735,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Tiefenbrunnen_2022-05-30.jpg.jpg
+2022-05-30,999390,Zürich / Strandbad Mythenquai,Ausgezeichnet,,Kantonales Labor Zürich,8.537365928,47.35352126,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Mythenquai_2022-05-30.jpg_.jpg
+2022-05-30,999377,Zürich / Seebad Enge,Ausgezeichnet,,Kantonales Labor Zürich,8.537383616,47.36144585,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Enge_2022-05-30.jpg.jpg
+2022-05-30,999277,Herrliberg / Steinrad,Ausgezeichnet,,Kantonales Labor Zürich,8.600435283,47.29139345,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Herrliberg_2022-05-30.jpg.jpg
+2022-05-30,999275,Erlenbach / Badeanstalt Wyden,Ausgezeichnet,,Kantonales Labor Zürich,8.588368417,47.30570916,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Erlenbach_Wyden_2022-05-30.jpg.jpg
+2022-05-30,999376,Zürich / Strandbad Wollishofen,Ausgezeichnet,,Kantonales Labor Zürich,8.538386179,47.34137701,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Wollishofen_2022-05-30.jpg.jpg
+2022-05-31,999292,Uetikon am See / Strandbad Uetikon,Ausgezeichnet,,Kantonales Labor Zürich,8.676977569,47.25790677,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/uetikon_2022-05-31.jpg.jpg
+2022-05-31,999291,Männedorf / Strandbad Sonnenfeld,Ausgezeichnet,,Kantonales Labor Zürich,8.705561742,47.24525391,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/maennedorf_2022-05-31.jpg.jpg
+2022-05-31,999290,Stäfa / Seebad Lattenberg,Ausgezeichnet,,Kantonales Labor Zürich,8.710700612,47.24137408,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/staefa_lattenberg_2022-05-31.jpg.jpg
+2022-05-31,999289,Stäfa / Badeplatz Kehlhof,Ausgezeichnet,,Kantonales Labor Zürich,8.734580299,47.23309264,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/staefa_kehlhof_2022-05-31.jpg.jpg
+2022-05-31,999288,Stäfa / Seebad Länder Uerikon,Ausgezeichnet,,Kantonales Labor Zürich,8.761072894,47.23357417,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/uerikon_2022-05-31.jpg.jpg
+2022-05-31,999287,Hombrechtikon / Strandbad Feldbach,Ausgezeichnet,,Kantonales Labor Zürich,8.789153555,47.23520047,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/feldbach_2022-05-31.jpg.jpg
+2022-05-31,999286,Richterswil / Seebad,Ausgezeichnet,,Kantonales Labor Zürich,8.712589656,47.20647641,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/richterswil_2022-05-31.jpg.jpg
+2022-05-31,999285,Wädenswil / Seebad Dorf,Ausgezeichnet,,Kantonales Labor Zürich,8.673861638,47.23172673,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/waedenswil_dorf_2022-05-31.jpg.jpg
+2022-05-31,999283,Wädenswil / Badewiese Naglikon,Ausgezeichnet,,Kantonales Labor Zürich,8.634445028,47.25026889,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/waedenswil_naglikon_2022-05-31.jpg.jpg
+2022-05-31,999282,Horgen / Sportbad Käpfnach,Ausgezeichnet,,Kantonales Labor Zürich,8.617624794,47.25555171,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/horgen_kaepfnach_2022-05-31.jpg.jpg
+2022-05-31,999281,Horgen / Parkbad Seerose,Ausgezeichnet,,Kantonales Labor Zürich,8.594306389,47.26295734,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/horgen_seerose_2022-05-31.jpg.jpg
+2022-05-31,999280,Meilen / Strandbad Dorfmeilen,Ausgezeichnet,,Kantonales Labor Zürich,8.648648271,47.26766685,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/meilen_dorfmeilen_2022-05-31.jpg.jpg
+2022-05-31,999279,Meilen / Strandbad Ländeli,Ausgezeichnet,,Kantonales Labor Zürich,8.661150607,47.26321226,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/meilen_laendeli_2022-05-31.jpg.jpg
+2022-05-31,999278,Meilen / Strandbad Feldmeilen,Ausgezeichnet,,Kantonales Labor Zürich,8.62109299,47.27494658,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/meilen_feldmeilen_2022-05-31.jpg.jpg
+2022-05-31,999284,Wädenswil / Strandbad Rietliau,Ausgezeichnet,,Kantonales Labor Zürich,8.661626277,47.23954862,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/waedenswil_rietliau_2022-05-31.jpg.jpg
+2022-05-30,SH_1,Flurlingen / Strandbad,Ausgezeichnet,,Interkantonales Labor Schaffhausen,8.625251787,47.6886638,
+2022-05-30,SH_2,Flaach / Campingplatz,Gut,,Interkantonales Labor Schaffhausen,8.581053527,47.57974062,
+2022-05-30,SH_3,Flaach / Thurbrücke Mitte,Ausgezeichnet,,Interkantonales Labor Schaffhausen,8.606571887,47.59439006,
+2022-06-22,999295,Egg / Seebadi Egg,Ausgezeichnet,,Kantonales Labor Zürich,8.696417198,47.32199702,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Egg_Seebadi%20Egg_Greifensee_2021-07-22.jpg
+2022-06-22,999298,Maur / Strandbad Maur,Ausgezeichnet,,Kantonales Labor Zürich,8.675291407,47.34601842,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Strandbad%20Maur_Greifensee_2021-07-22.jpg
+2022-06-22,999301,Maur / Campingplatz Naturfreunde,Ausgezeichnet,,Kantonales Labor Zürich,8.664003321,47.35356901,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Campingplatz%20Naturfreunde_Greifenseee_2021-07-22.jpg
+2022-06-22,999302,Maur / Campingplatz TCS,Ausgezeichnet,,Kantonales Labor Zürich,8.659426491,47.35601927,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Campingplatz%20TCS_Greifensee_2021-07-22.jpg
+2022-06-22,999355,Fällanden / Badeplatz Rohr,Ausgezeichnet,,Kantonales Labor Zürich,8.653462485,47.36732638,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/F%C3%A4llanden_Badeplatz%20Rohr_Greifensee_2021-07-22.jpg
+2022-06-22,999304,Greifensee / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.671345143,47.36653419,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Greifensee_Strandbad_Greifensee_2021-08-18_1500.jpg
+2022-06-22,999294,Uster / Einmündung Aabach,Ausgezeichnet,,Kantonales Labor Zürich,8.689203251,47.35004244,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Uster_Einm%C3%BCndung%20Aabach_Greifensee_2021-07-22.jpg
+2022-06-22,999293,Uster / Strandbad Uster,Ausgezeichnet,,Kantonales Labor Zürich,8.690639706,47.34131925,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Uster_Strandbad%20Uster_Greifensee_2021-07-22.jpg
+2022-06-22,999299,Maur / Zeltklub Zürich,Ausgezeichnet,,Kantonales Labor Zürich,8.669820959,47.34697644,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Zeltklub%20Z%C3%BCrich_Greifensee_2021-07-22.jpg
+2022-06-22,999303,Fällanden / Jugendherberge,Ausgezeichnet,,Kantonales Labor Zürich,8.654222538,47.36117455,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/F%C3%A4llanden_Jugendherberge_Greifensee_2021-07-22.jpg
+2022-06-22,999325,Seegräben / Strandbad Seegräben,Ausgezeichnet,,Kantonales Labor Zürich,8.774707083,47.34572014,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Seegr%C3%A4ben_Strandbad%20Seegr%C3%A4ben_Pf%C3%A4ffikersee_2021-07-22.jpg
+2022-06-22,999327,Pfäffikon / Strandbad Baumen,Ausgezeichnet,,Kantonales Labor Zürich,8.785589037,47.35839446,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Pf%C3%A4ffikon_Strandbad%20Baumen_Pf%C3%A4ffikersee_2021-07-22.jpg
+2022-06-22,999326,Pfäffikon / Strandbad Auslikon,Ausgezeichnet,,Kantonales Labor Zürich,8.789858274,47.34298,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Pf%C3%A4ffikon_Strandbad%20Auslikon_Pf%C3%A4ffikersee_2021-07-22.jpg
+2022-06-27,999370,Zürich / Frauenbad Stadthausquai,Ausgezeichnet,,Kantonales Labor Zürich,8.542125232,47.36858778,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Frauenbadi%20Stadthausquai_Limmat_2021-07-27.jpg
+2022-06-27,999372,Zürich / Flussbad Oberer Letten,Ausgezeichnet,,Kantonales Labor Zürich,8.534637376,47.38563288,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Oberer%20Letten_2021-06-30.jpg
+2022-06-27,999373,Zürich / Flussbad Unterer Letten,Ausgezeichnet,,Kantonales Labor Zürich,8.529069695,47.3892746,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Unterer%20Letten_2021-06-30.jpg
+2022-06-27,999308,Zürich / Flussbad Au-Höngg,Ausgezeichnet,,Kantonales Labor Zürich,8.491244021,47.3995019,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Au-Hoengg_2022-06-27.jpg.jpg
+2022-06-27,999371,Zürich / Männerbad Schanzengraben,Ausgezeichnet,,Kantonales Labor Zürich,8.533065512,47.37165137,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Schanzengraben_2022-06-27.jpg.JPG
+2022-06-27,999341,Zürich / Seebad Katzensee Schwimmerbereich,Ausgezeichnet,,Kantonales Labor Zürich,8.492917386,47.43117587,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Seebad%20Katzensee%20Schwimmerbereich_2021-07-27.jpg
+2022-06-27,999378,Zürich / Seebad Katzensee Nichtschwimmerbereich,Gut,,Kantonales Labor Zürich,8.493411148,47.43134227,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Seebad%20Katzensee%20Nchtschwimmerbereich_2021-07-27.jpg
+2022-06-27,999340,Niederhasli / Badeplatz Mettmenhaslisee,Gut,,Kantonales Labor Zürich,8.490823994,47.47348868,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Niederhasli_Mettmenhaslisee_2022-06-27.jpg.jpg
+2022-06-27,999269,Oberrieden / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.581744764,47.27678272,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Oberrieden_2022-05-30.jpg.jpg
+2022-06-27,999270,Thalwil / Strandbad Bürger 2,Ausgezeichnet,,Kantonales Labor Zürich,8.573591387,47.28993364,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Thalwil_B%C3%BCrger_2022-05-30.jpg.jpg
+2022-06-27,999272,Rüschlikon / Seebad,Ausgezeichnet,,Kantonales Labor Zürich,8.55643583,47.31291344,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Rueschlikon_2022-05-30.jpg.jpg
+2022-06-27,999273,Kilchberg / Seebad Schoren,Ausgezeichnet,,Kantonales Labor Zürich,8.554211951,47.31852105,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Kilchberg_2022-05-30.jpg.jpg
+2022-06-27,999376,Zürich / Strandbad Wollishofen,Ausgezeichnet,,Kantonales Labor Zürich,8.538386179,47.34137701,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Wollishofen_2022-05-30.jpg.jpg
+2022-06-27,999390,Zürich / Strandbad Mythenquai,Ausgezeichnet,,Kantonales Labor Zürich,8.537365928,47.35352126,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Mythenquai_2022-05-30.jpg_.jpg
+2022-06-27,999377,Zürich / Seebad Enge,Ausgezeichnet,,Kantonales Labor Zürich,8.537383616,47.36144585,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Enge_2022-05-30.jpg.jpg
+2022-06-27,999255,Zürich / Seebad Utoquai,Ausgezeichnet,,Kantonales Labor Zürich,8.545740002,47.36158192,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Utoquai_2022-05-30.jpg.jpg
+2022-06-27,999389,Zürich / Strandbad Tiefenbrunnen,Ausgezeichnet,,Kantonales Labor Zürich,8.555170321,47.35167735,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Tiefenbrunnen_2022-05-30.jpg.jpg
+2022-06-27,999267,Zollikon / Seebad,Ausgezeichnet,,Kantonales Labor Zürich,8.568319857,47.33758878,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Zollikon_2022-05-30.jpg.jpg
+2022-06-27,999274,Küsnacht / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.582979525,47.30972971,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Kuesnacht_Strandbad_2022-05-30.jpg.jpg
+2022-06-27,999276,Erlenbach / Strandbad Winkel,Ausgezeichnet,,Kantonales Labor Zürich,8.596149599,47.29740053,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Erlenbach_Winkel_2022-05-30.jpg.jpg
+2022-06-27,999277,Herrliberg / Steinrad,Ausgezeichnet,,Kantonales Labor Zürich,8.600435283,47.29139345,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Herrliberg_2022-05-30.jpg.jpg
+2022-06-27,999279,Meilen / Strandbad Ländeli,Ausgezeichnet,,Kantonales Labor Zürich,8.661150607,47.26321226,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/meilen_laendeli_2022-05-31.jpg.jpg
+2022-06-27,999292,Uetikon am See / Strandbad Uetikon,Ausgezeichnet,,Kantonales Labor Zürich,8.676977569,47.25790677,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/uetikon_2022-05-31.jpg.jpg
+2022-06-27,999291,Männedorf / Strandbad Sonnenfeld,Ausgezeichnet,,Kantonales Labor Zürich,8.705561742,47.24525391,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/maennedorf_2022-05-31.jpg.jpg
+2022-06-27,999290,Stäfa / Seebad Lattenberg,Ausgezeichnet,,Kantonales Labor Zürich,8.710700612,47.24137408,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/staefa_lattenberg_2022-05-31.jpg.jpg
+2022-06-27,999287,Hombrechtikon / Strandbad Feldbach,Ausgezeichnet,,Kantonales Labor Zürich,8.789153555,47.23520047,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/feldbach_2022-05-31.jpg.jpg
+2022-06-27,999286,Richterswil / Seebad,Ausgezeichnet,,Kantonales Labor Zürich,8.712589656,47.20647641,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/richterswil_2022-05-31.jpg.jpg
+2022-06-27,999284,Wädenswil / Strandbad Rietliau,Ausgezeichnet,,Kantonales Labor Zürich,8.661626277,47.23954862,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/waedenswil_rietliau_2022-05-31.jpg.jpg
+2022-06-27,999282,Horgen / Sportbad Käpfnach,Ausgezeichnet,,Kantonales Labor Zürich,8.617624794,47.25555171,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/horgen_kaepfnach_2022-05-31.jpg.jpg
+2022-06-28,SH_1,Flurlingen / Strandbad,Ausgezeichnet,,Interkantonales Labor Schaffhausen,8.625251787,47.6886638,
+2022-06-28,SH_2,Flaach / Campingplatz,Gut,,Interkantonales Labor Schaffhausen,8.581053527,47.57974062,
+2022-06-28,SH_3,Flaach / Thurbrücke Mitte,Gut,,Interkantonales Labor Schaffhausen,8.606571887,47.59439006,
+2022-07-04,999336,Hedingen / Badeplatz Hedingerweiher,Ausgezeichnet,,Kantonales Labor Zürich,8.454995059,47.29518657,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Hedingen_Badeplatz_Hedingerweiher_.2021-06-07.jpg
+2022-07-04,999335,Aeugst am Albis / Badeplatz Türlersee,Ausgezeichnet,,Kantonales Labor Zürich,8.501048075,47.27263409,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/AeugstaA._Badeplatz_Tuerlersee_2021-06-07.jpg
+2022-07-04,999333,Hausen am Albis / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.510330359,47.26560376,
+2022-07-04,999334,Aeugst am Albis / Fischersteg,Ausgezeichnet,,Kantonales Labor Zürich,8.501958226,47.26590617,
+2022-07-04,999337,Horgen / Badeplatz Horgenerweiher,Ausgezeichnet,,Kantonales Labor Zürich,8.59904787,47.24338036,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Horgen_Badeplatz_Horgenerweiher_2021-06-07.jpg
+2022-07-04,999338,Wädenswil / Badeplatz Bachgadenweiher,Ausgezeichnet,,Kantonales Labor Zürich,8.63394623,47.22325113,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Waedenswil_Badeplatz_Bachgadenweiher_2021-06-07.jpg
+2022-07-04,999339,Hütten / Badeplatz Hüttnersee,Ausgezeichnet,,Kantonales Labor Zürich,8.677484307,47.18461284,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Huetten_Badeplatz_Huettnersee_2021-06-07.jpg
+2022-07-21,999295,Egg / Seebadi Egg,Ausgezeichnet,,Kantonales Labor Zürich,8.696417198,47.32199702,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Egg_Seebadi%20Egg_Greifensee_2021-07-22.jpg
+2022-07-21,999298,Maur / Strandbad Maur,Ausgezeichnet,,Kantonales Labor Zürich,8.675291407,47.34601842,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Strandbad%20Maur_Greifensee_2021-07-22.jpg
+2022-07-21,999299,Maur / Zeltklub Zürich,Gut,,Kantonales Labor Zürich,8.669820959,47.34697644,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Zeltklub%20Z%C3%BCrich_Greifensee_2021-07-22.jpg
+2022-07-21,999301,Maur / Campingplatz Naturfreunde,Ausgezeichnet,,Kantonales Labor Zürich,8.664003321,47.35356901,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Campingplatz%20Naturfreunde_Greifenseee_2021-07-22.jpg
+2022-07-21,999302,Maur / Campingplatz TCS,Ausgezeichnet,,Kantonales Labor Zürich,8.659426491,47.35601927,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Maur_Campingplatz%20TCS_Greifensee_2021-07-22.jpg
+2022-07-21,999303,Fällanden / Jugendherberge,Ausgezeichnet,,Kantonales Labor Zürich,8.654222538,47.36117455,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/F%C3%A4llanden_Jugendherberge_Greifensee_2021-07-22.jpg
+2022-07-21,999355,Fällanden / Badeplatz Rohr,Ausgezeichnet,,Kantonales Labor Zürich,8.653462485,47.36732638,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/F%C3%A4llanden_Badeplatz%20Rohr_Greifensee_2021-07-22.jpg
+2022-07-21,999304,Greifensee / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.671345143,47.36653419,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Greifensee_Strandbad_Greifensee_2021-08-18_1500.jpg
+2022-07-21,999294,Uster / Einmündung Aabach,Ausgezeichnet,,Kantonales Labor Zürich,8.689203251,47.35004244,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Uster_Einm%C3%BCndung%20Aabach_Greifensee_2021-07-22.jpg
+2022-07-21,999293,Uster / Strandbad Uster,Ausgezeichnet,,Kantonales Labor Zürich,8.690639706,47.34131925,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Uster_Strandbad%20Uster_Greifensee_2021-07-22.jpg
+2022-07-21,999325,Seegräben / Strandbad Seegräben,Ausgezeichnet,,Kantonales Labor Zürich,8.774707083,47.34572014,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Seegr%C3%A4ben_Strandbad%20Seegr%C3%A4ben_Pf%C3%A4ffikersee_2021-07-22.jpg
+2022-07-21,999327,Pfäffikon / Strandbad Baumen,Ausgezeichnet,,Kantonales Labor Zürich,8.785589037,47.35839446,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Pf%C3%A4ffikon_Strandbad%20Baumen_Pf%C3%A4ffikersee_2021-07-22.jpg
+2022-07-21,999326,Pfäffikon / Strandbad Auslikon,Gut,,Kantonales Labor Zürich,8.789858274,47.34298,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Pf%C3%A4ffikon_Strandbad%20Auslikon_Pf%C3%A4ffikersee_2021-07-22.jpg
+2022-07-25,999268,Küsnacht / Kusenbad,Ausgezeichnet,,Kantonales Labor Zürich,8.576564031,47.3227105,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Kuesnacht_Kusenbad_2022-05-30.jpg.jpg
+2022-07-25,999271,Thalwil / Strandbad Ludretikon,Ausgezeichnet,,Kantonales Labor Zürich,8.564271932,47.30002785,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Thalwil_Ludretikon_2022-05-30.jpg.jpg
+2022-07-25,999255,Zürich / Seebad Utoquai,Ausgezeichnet,,Kantonales Labor Zürich,8.545740002,47.36158192,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Utoquai_2022-05-30.jpg.jpg
+2022-07-25,999274,Küsnacht / Strandbad,Ausgezeichnet,,Kantonales Labor Zürich,8.582979525,47.30972971,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Kuesnacht_Strandbad_2022-05-30.jpg.jpg
+2022-07-25,999290,Stäfa / Seebad Lattenberg,Ausgezeichnet,,Kantonales Labor Zürich,8.710700612,47.24137408,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/staefa_lattenberg_2022-05-31.jpg.jpg
+2022-07-25,999289,Stäfa / Badeplatz Kehlhof,Ausgezeichnet,,Kantonales Labor Zürich,8.734580299,47.23309264,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/staefa_kehlhof_2022-05-31.jpg.jpg
+2022-07-25,999288,Stäfa / Seebad Länder Uerikon,Ausgezeichnet,,Kantonales Labor Zürich,8.761072894,47.23357417,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/uerikon_2022-05-31.jpg.jpg
+2022-07-25,999286,Richterswil / Seebad,Ausgezeichnet,,Kantonales Labor Zürich,8.712589656,47.20647641,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/richterswil_2022-05-31.jpg.jpg
+2022-07-25,999285,Wädenswil / Seebad Dorf,Ausgezeichnet,,Kantonales Labor Zürich,8.673861638,47.23172673,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/waedenswil_dorf_2022-05-31.jpg.jpg
+2022-07-25,999283,Wädenswil / Badewiese Naglikon,Ausgezeichnet,,Kantonales Labor Zürich,8.634445028,47.25026889,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/waedenswil_naglikon_2022-05-31.jpg.jpg
+2022-07-25,999281,Horgen / Parkbad Seerose,Ausgezeichnet,,Kantonales Labor Zürich,8.594306389,47.26295734,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/horgen_seerose_2022-05-31.jpg.jpg
+2022-07-25,999280,Meilen / Strandbad Dorfmeilen,Ausgezeichnet,,Kantonales Labor Zürich,8.648648271,47.26766685,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/meilen_dorfmeilen_2022-05-31.jpg.jpg
+2022-07-25,999376,Zürich / Strandbad Wollishofen,Ausgezeichnet,,Kantonales Labor Zürich,8.538386179,47.34137701,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Wollishofen_2022-05-30.jpg.jpg
+2022-07-25,999390,Zürich / Strandbad Mythenquai,Ausgezeichnet,,Kantonales Labor Zürich,8.537365928,47.35352126,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Mythenquai_2022-05-30.jpg_.jpg
+2022-07-25,999377,Zürich / Seebad Enge,Ausgezeichnet,,Kantonales Labor Zürich,8.537383616,47.36144585,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Enge_2022-05-30.jpg.jpg
+2022-07-25,999389,Zürich / Strandbad Tiefenbrunnen,Ausgezeichnet,,Kantonales Labor Zürich,8.555170321,47.35167735,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Tiefenbrunnen_2022-05-30.jpg.jpg
+2022-07-25,999275,Erlenbach / Badeanstalt Wyden,Ausgezeichnet,,Kantonales Labor Zürich,8.588368417,47.30570916,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Erlenbach_Wyden_2022-05-30.jpg.jpg
+2022-07-25,999278,Meilen / Strandbad Feldmeilen,Ausgezeichnet,,Kantonales Labor Zürich,8.62109299,47.27494658,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/meilen_feldmeilen_2022-05-31.jpg.jpg
+2022-07-25,999270,Thalwil / Strandbad Bürger 2,Ausgezeichnet,,Kantonales Labor Zürich,8.573591387,47.28993364,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Thalwil_B%C3%BCrger_2022-05-30.jpg.jpg
+2022-07-25,999284,Wädenswil / Strandbad Rietliau,Ausgezeichnet,,Kantonales Labor Zürich,8.661626277,47.23954862,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/waedenswil_rietliau_2022-05-31.jpg.jpg
+2022-07-27,999370,Zürich / Frauenbad Stadthausquai,Gut,,Kantonales Labor Zürich,8.542125232,47.36858778,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Frauenbadi%20Stadthausquai_Limmat_2021-07-27.jpg
+2022-07-27,999372,Zürich / Flussbad Oberer Letten,Ausgezeichnet,,Kantonales Labor Zürich,8.534637376,47.38563288,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Oberer%20Letten_2021-06-30.jpg
+2022-07-27,999373,Zürich / Flussbad Unterer Letten,Ausgezeichnet,,Kantonales Labor Zürich,8.529069695,47.3892746,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Unterer%20Letten_2021-06-30.jpg
+2022-07-27,999308,Zürich / Flussbad Au-Höngg,Ausgezeichnet,,Kantonales Labor Zürich,8.491244021,47.3995019,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Flussbad_Au-Hoengg_2022-06-27.jpg.jpg
+2022-07-27,999371,Zürich / Männerbad Schanzengraben,Ausgezeichnet,,Kantonales Labor Zürich,8.533065512,47.37165137,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Schanzengraben_2022-06-27.jpg.JPG
+2022-07-27,999341,Zürich / Seebad Katzensee Schwimmerbereich,Ausgezeichnet,,Kantonales Labor Zürich,8.492917386,47.43117587,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Seebad%20Katzensee%20Schwimmerbereich_2021-07-27.jpg
+2022-07-27,999378,Zürich / Seebad Katzensee Nichtschwimmerbereich,Ausgezeichnet,,Kantonales Labor Zürich,8.493411148,47.43134227,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Z%C3%BCrich_Seebad%20Katzensee%20Nchtschwimmerbereich_2021-07-27.jpg
+2022-07-27,999343,Opfikon-Glattbrugg / Stirnseite Opfikon,Gut,,Kantonales Labor Zürich,8.565970087,47.42300288,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Opfikon_Stirnseite%20Opfikon_Glattparksee_2021-07-27.jpg
+2022-07-27,999342,Opfikon-Glattbrugg / Stirnseite Zürich,Gut,,Kantonales Labor Zürich,8.562278644,47.41891009,https://raw.githubusercontent.com/openZH/bathing_water_quality_ZH/master/images/Opfikon_Stirnseite%20Z%C3%BCrich_Glattparksee_2021-07-27.jpg
